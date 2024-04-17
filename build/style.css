@@ -1,0 +1,19 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/index.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+/* Define @font-face for the 'Material Symbols Outlined' font */
+.wp-block-yuky-icon-font-awesome {
+  display: flex;
+  flex-wrap: wrap;
+}
+.wp-block-yuky-icon-font-awesome .box-icon {
+  width: 100%;
+}
+.wp-block-yuky-icon-font-awesome .box-icon i {
+  display: block;
+}
+.wp-block-yuky-icon-font-awesome .box-icon i:hover {
+  color: var(--icon-font-awesome-hover-color) !important;
+}
+
+/*# sourceMappingURL=style.css.map*/

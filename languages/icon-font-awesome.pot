@@ -1,0 +1,10246 @@
+# Copyright (C) 2024 Yuky Hendiawan
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Block: Icons Font Awesome 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/icon-font-awesome\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-17T21:17:35+07:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: icon-font-awesome\n"
+
+#. Plugin Name of the plugin
+#: icon-font-awesome.php
+msgid "Block: Icons Font Awesome"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: icon-font-awesome.php
+msgid "https://yukyhendiawan.com"
+msgstr ""
+
+#. Description of the plugin
+#: icon-font-awesome.php
+msgid "The Block Plugin: Icon Font Awesome allows you to easily add a Gutenberg block to select icons from the Font Awesome collection."
+msgstr ""
+
+#. Author of the plugin
+#: icon-font-awesome.php
+#: admin/template/information.php:191
+msgid "Yuky Hendiawan"
+msgstr ""
+
+#. Author URI of the plugin
+#: icon-font-awesome.php
+msgid "https://yukyhendiawan.com/"
+msgstr ""
+
+#: admin/class-icon-font-awesome-admin.php:126
+#: admin/class-icon-font-awesome-admin.php:127
+#: build/index.js:250
+#: build/index.js:342
+#: build/index.js:30994
+#: build/index.js:31002
+#: build/index.js:31101
+#: build/index.js:255
+#: build/index.js:380
+#: build/index.js:10404
+#: build/index.js:11414
+#: build/index.js:25744
+msgid "Font Awesome"
+msgstr ""
+
+#: admin/notices.php:65
+msgid "Hi there! Thank you for installing the Icon Font Awesome Plugin!"
+msgstr ""
+
+#: admin/notices.php:66
+msgid "We hope this plugin is beneficial for many people."
+msgstr ""
+
+#: admin/notices.php:67
+msgid "For usage instructions, please refer to the Usage Guide ."
+msgstr ""
+
+#: admin/notices.php:73
+#: admin/template/information.php:45
+msgid "Hire Developer!"
+msgstr ""
+
+#: admin/notices.php:80
+#: admin/template/information.php:58
+#: admin/template/information.php:74
+msgid "Usage Guide "
+msgstr ""
+
+#: admin/template/information.php:32
+msgid "Block: Icon Font Awesome is a Gutenberg plugin specifically designed to facilitate displaying a collection of Font Awesome."
+msgstr ""
+
+#: admin/template/information.php:39
+msgid "Donate"
+msgstr ""
+
+#: admin/template/information.php:59
+msgid "Report "
+msgstr ""
+
+#: admin/template/information.php:60
+msgid "Changelog "
+msgstr ""
+
+#: admin/template/information.php:77
+msgid "Welcome to our plugin page! With this plugin, you can easily add icons to your content through the Gutenberg Editor. Here are simple steps to get started:"
+msgstr ""
+
+#: admin/template/information.php:83
+msgid "Access the Gutenberg Editor:"
+msgstr ""
+
+#: admin/template/information.php:85
+msgid "Open your WordPress editor and select or create a post or page using Gutenberg."
+msgstr ""
+
+#: admin/template/information.php:88
+msgid "Go to Gutenberg Media Category Block and Choose an Font Awesome:"
+msgstr ""
+
+#: admin/template/information.php:90
+msgid "Locate the \"Media Category\" option within the Gutenberg block. Choose the \"Font Awesome\" and select an icon that suits your needs."
+msgstr ""
+
+#: admin/template/information.php:93
+msgid "Click the Icon Library Button:"
+msgstr ""
+
+#: admin/template/information.php:95
+msgid "After selecting the Icon Font Awesome category, click the \"Icon Library\" button to open the available icon library."
+msgstr ""
+
+#: admin/template/information.php:98
+msgid "Choose an Icon:"
+msgstr ""
+
+#: admin/template/information.php:100
+msgid "Select one icon from the library. Click on the desired icon to choose it."
+msgstr ""
+
+#: admin/template/information.php:109
+msgid "Step 1: Please select the Icon Font Awesome block in the Gutenberg Editor."
+msgstr ""
+
+#: admin/template/information.php:113
+msgid "Step 2: Click on the Icon Library icon."
+msgstr ""
+
+#: admin/template/information.php:117
+msgid "Step 3: Choose one of the icons."
+msgstr ""
+
+#: admin/template/information.php:121
+msgid "Now, you are ready to effortlessly add icons to your content through the Gutenberg Editor. If you have any further questions or need additional assistance, feel free to contact us. Happy creating!\""
+msgstr ""
+
+#: admin/template/information.php:141
+msgid "Bug Report"
+msgstr ""
+
+#. translators: %s: Theme name
+#: admin/template/information.php:145
+msgid "If you encounter any bugs or issues while using the Plugin, we encourage you to promptly report them to us. Reporting bugs is a crucial step in ensuring quick updates and fixes, allowing you to continue experiencing optimal performance with our WordPress Plugin."
+msgstr ""
+
+#: admin/template/information.php:153
+msgid "Below are the steps to report a bug:"
+msgstr ""
+
+#: admin/template/information.php:159
+msgid "Identify the Bug:"
+msgstr ""
+
+#: admin/template/information.php:160
+msgid "Please try to identify and understand the issue or bug you encounter. Ensure to record details on how the bug manifests and its impact on the use of the Plugin."
+msgstr ""
+
+#: admin/template/information.php:164
+msgid "Provide Detailed Explanation:"
+msgstr ""
+
+#: admin/template/information.php:165
+msgid "When reporting the bug to us, offer a clear and detailed explanation of the problem you are facing."
+msgstr ""
+
+#: admin/template/information.php:169
+msgid "Report the Bug:"
+msgstr ""
+
+#: admin/template/information.php:170
+msgid "Kindly report the bug through "
+msgstr ""
+
+#: admin/template/information.php:172
+msgid "The Block: Icon Font Awesome WordPress Plugin forum"
+msgstr ""
+
+#: admin/template/information.php:174
+msgid " or via "
+msgstr ""
+
+#: admin/template/information.php:176
+msgid "GitHub Issues."
+msgstr ""
+
+#: admin/template/information.php:178
+msgid "Include the information you have gathered about the bug in your report."
+msgstr ""
+
+#: admin/template/information.php:185
+msgid "Your support and cooperation in reporting the bug are highly appreciated. We will make every effort to address the bug as quickly as possible so that you can continue enjoying the use of the Plugin without disruption."
+msgstr ""
+
+#: admin/template/information.php:190
+msgid "Best regards,"
+msgstr ""
+
+#: admin/template/information.php:212
+msgid "Changelog"
+msgstr ""
+
+#: admin/template/information.php:217
+#: build/index.js:224
+#: build/index.js:199
+msgid "New"
+msgstr ""
+
+#: admin/template/information.php:221
+msgid "Update"
+msgstr ""
+
+#: admin/template/information.php:225
+msgid "Fix"
+msgstr ""
+
+#: admin/template/information.php:231
+msgid "Version: 1.1.0"
+msgstr ""
+
+#: admin/template/information.php:231
+msgid "Released on April 17, 2024"
+msgstr ""
+
+#: admin/template/information.php:236
+msgid "New Icons"
+msgstr ""
+
+#: admin/template/information.php:242
+msgid "Version: 1.0.0"
+msgstr ""
+
+#: admin/template/information.php:242
+msgid "Released on March 23, 2024"
+msgstr ""
+
+#: admin/template/information.php:247
+msgid "Initial release"
+msgstr ""
+
+#: admin/template/sidebar-information.php:12
+msgid "About Developer"
+msgstr ""
+
+#: admin/template/sidebar-information.php:14
+msgid "Hello, I'm Yuky Hendiawan, an experienced WordPress developer with over 5 years of expertise."
+msgstr ""
+
+#: admin/template/sidebar-information.php:15
+msgid "As a Freelancer, I am actively engaged in a variety of WordPress development projects."
+msgstr ""
+
+#: admin/template/sidebar-information.php:16
+msgid "My expertise includes creating plugins, designing custom themes, tailoring both plugins and themes to meet specific requirements."
+msgstr ""
+
+#: admin/template/sidebar-information.php:17
+msgid "If you need a WordPress developer, feel free to contact me."
+msgstr ""
+
+#: admin/template/sidebar-information.php:18
+msgid "Contact:"
+msgstr ""
+
+#: admin/template/sidebar-information.php:26
+msgid "Upwork"
+msgstr ""
+
+#: admin/template/sidebar-information.php:34
+msgid "yukyhendiawan1998@gmail.com"
+msgstr ""
+
+#: build/index.js:245
+#: build/index.js:247
+msgid "No results found."
+msgstr ""
+
+#. translators: %1$s: Number of icons retruned from search, %2$s: the search input
+#: build/index.js:272
+#: build/index.js:281
+msgid "%1$s search result for \"%2$s\""
+msgid_plural "%1$s search results for \"%2$s\""
+msgstr[0] ""
+msgstr[1] ""
+
+#: build/index.js:319
+#: build/index.js:320
+#: build/index.js:341
+#: build/index.js:345
+msgid "Choose an icon from the library."
+msgstr ""
+
+#: build/index.js:321
+#: build/index.js:349
+msgid "Select an icon from Font Awesome."
+msgstr ""
+
+#: build/index.js:322
+#: build/index.js:353
+msgid "Explore the icon library and choose one."
+msgstr ""
+
+#: build/index.js:350
+#: build/index.js:388
+msgid "Icon Library"
+msgstr ""
+
+#: build/index.js:460
+#: build/index.js:493
+msgid "Settings"
+msgstr ""
+
+#: build/index.js:466
+#: build/index.js:495
+msgid "Color"
+msgstr ""
+
+#: build/index.js:477
+#: build/index.js:505
+msgid "Hover color"
+msgstr ""
+
+#: build/index.js:484
+#: build/index.js:515
+msgid "Font Size"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31050
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:31096
+#: build/index.js:7160
+#: build/index.js:18639
+#: build/index.js:23755
+#: build/index.js:24113
+#: build/index.js:24542
+msgid "Accessible Icon"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:30972
+#: build/index.js:30996
+#: build/index.js:31096
+#: build/index.js:7166
+#: build/index.js:7406
+#: build/index.js:10590
+#: build/index.js:24554
+msgid "Address Card"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31018
+#: build/index.js:7172
+#: build/index.js:13506
+msgid "Audio Description"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:7178
+msgid "Braille"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31040
+#: build/index.js:7184
+#: build/index.js:17173
+msgid "Circle Info"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31066
+#: build/index.js:7190
+#: build/index.js:20793
+msgid "Circle Question"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31018
+#: build/index.js:7196
+#: build/index.js:13524
+msgid "Closed Captioning"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:7202
+msgid "Ear Deaf"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:30996
+#: build/index.js:7208
+#: build/index.js:10656
+msgid "Ear Listen"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31002
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:31062
+#: build/index.js:31074
+#: build/index.js:7214
+#: build/index.js:11384
+#: build/index.js:17209
+#: build/index.js:18789
+#: build/index.js:20505
+#: build/index.js:21576
+msgid "Eye"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31040
+#: build/index.js:7220
+#: build/index.js:17215
+msgid "Eye Low Vision"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31074
+#: build/index.js:7226
+#: build/index.js:21606
+msgid "Fingerprint"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:30996
+#: build/index.js:7232
+#: build/index.js:10704
+msgid "Hands Asl Interpreting"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:30986
+#: build/index.js:7238
+#: build/index.js:9747
+msgid "Handshake Angle"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31101
+#: build/index.js:7244
+#: build/index.js:25873
+msgid "Hands"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:7250
+#: build/index.js:15649
+#: build/index.js:19047
+#: build/index.js:24800
+msgid "Person Cane"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31040
+#: build/index.js:31096
+#: build/index.js:7256
+#: build/index.js:17545
+#: build/index.js:25034
+msgid "Person Walking With Cane"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:30996
+#: build/index.js:31040
+#: build/index.js:7262
+#: build/index.js:10812
+#: build/index.js:17563
+msgid "Phone Volume"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:30970
+#: build/index.js:31066
+#: build/index.js:7268
+#: build/index.js:7345
+#: build/index.js:20847
+msgid "Question"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:30996
+#: build/index.js:31040
+#: build/index.js:7274
+#: build/index.js:10866
+#: build/index.js:17809
+msgid "Tty"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:7280
+msgid "Universal Access"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:31096
+#: build/index.js:7286
+#: build/index.js:17839
+#: build/index.js:19305
+#: build/index.js:24043
+#: build/index.js:24401
+#: build/index.js:25256
+msgid "Wheelchair"
+msgstr ""
+
+#: build/index.js:30968
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:31096
+#: build/index.js:7292
+#: build/index.js:16465
+#: build/index.js:17845
+#: build/index.js:19311
+#: build/index.js:24049
+#: build/index.js:24407
+#: build/index.js:25262
+msgid "Wheelchair Move"
+msgstr ""
+
+#: build/index.js:30970
+#: build/index.js:31010
+#: build/index.js:31034
+#: build/index.js:31040
+#: build/index.js:31078
+#: build/index.js:31080
+#: build/index.js:31088
+#: build/index.js:7315
+#: build/index.js:12569
+#: build/index.js:15006
+#: build/index.js:17077
+#: build/index.js:22157
+#: build/index.js:22526
+#: build/index.js:23482
+msgid "Bell"
+msgstr ""
+
+#: build/index.js:30970
+#: build/index.js:31010
+#: build/index.js:31040
+#: build/index.js:31088
+#: build/index.js:7321
+#: build/index.js:12575
+#: build/index.js:17083
+#: build/index.js:23488
+msgid "Bell Slash"
+msgstr ""
+
+#: build/index.js:30970
+#: build/index.js:31066
+#: build/index.js:7327
+#: build/index.js:20787
+msgid "Circle Exclamation"
+msgstr ""
+
+#: build/index.js:30970
+#: build/index.js:31006
+#: build/index.js:31014
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:7333
+#: build/index.js:11984
+#: build/index.js:13060
+#: build/index.js:18729
+#: build/index.js:21168
+msgid "Circle Radiation"
+msgstr ""
+
+#: build/index.js:30970
+#: build/index.js:31066
+#: build/index.js:7339
+#: build/index.js:20805
+msgid "Exclamation"
+msgstr ""
+
+#: build/index.js:30970
+#: build/index.js:31006
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:7351
+#: build/index.js:12116
+#: build/index.js:13180
+#: build/index.js:15925
+#: build/index.js:19107
+#: build/index.js:21270
+msgid "Radiation"
+msgstr ""
+
+#: build/index.js:30970
+#: build/index.js:31024
+#: build/index.js:31028
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:31074
+#: build/index.js:7357
+#: build/index.js:14308
+#: build/index.js:14543
+#: build/index.js:16123
+#: build/index.js:19125
+#: build/index.js:21282
+#: build/index.js:21822
+msgid "Skull Crossbones"
+msgstr ""
+
+#: build/index.js:30970
+#: build/index.js:7363
+msgid "Triangle Exclamation"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7412
+msgid "A"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7418
+msgid "B"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:31050
+#: build/index.js:7424
+#: build/index.js:18723
+msgid "Circle H"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7430
+msgid "C"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7436
+msgid "D"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7442
+msgid "E"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7448
+msgid "F"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7454
+msgid "G"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7460
+msgid "H"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7466
+msgid "I"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7472
+msgid "J"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7478
+msgid "K"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7484
+msgid "L"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7490
+msgid "M"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7496
+msgid "N"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7502
+msgid "O"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7508
+msgid "P"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7514
+msgid "Q"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7520
+msgid "R"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7526
+msgid "S"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:7532
+#: build/index.js:17677
+#: build/index.js:19143
+msgid "Square H"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7538
+msgid "T"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7544
+msgid "U"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7550
+msgid "V"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7556
+msgid "W"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7562
+msgid "X"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7568
+msgid "Y"
+msgstr ""
+
+#: build/index.js:30972
+#: build/index.js:7574
+msgid "Z"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31006
+#: build/index.js:31058
+#: build/index.js:7613
+#: build/index.js:11966
+#: build/index.js:20179
+msgid "Bugs"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31028
+#: build/index.js:7619
+#: build/index.js:14507
+msgid "Cat"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:7625
+msgid "Cow"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31028
+#: build/index.js:7631
+#: build/index.js:14519
+msgid "Crow"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:7637
+msgid "Dog"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:30986
+#: build/index.js:31064
+#: build/index.js:31068
+#: build/index.js:7643
+#: build/index.js:9705
+#: build/index.js:20659
+#: build/index.js:20971
+msgid "Dove"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31024
+#: build/index.js:7649
+#: build/index.js:14224
+msgid "Dragon"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31058
+#: build/index.js:7655
+#: build/index.js:20203
+msgid "Feather"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31058
+#: build/index.js:7661
+#: build/index.js:20209
+msgid "Feather Pointed"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31020
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:7667
+#: build/index.js:13826
+#: build/index.js:17927
+#: build/index.js:18033
+msgid "Fish Fins"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31020
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:7673
+#: build/index.js:13832
+#: build/index.js:17933
+#: build/index.js:18039
+msgid "Fish"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:30984
+#: build/index.js:31058
+#: build/index.js:31070
+#: build/index.js:7679
+#: build/index.js:9509
+#: build/index.js:20221
+#: build/index.js:21234
+msgid "Frog"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:7685
+msgid "Hippo"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:7691
+msgid "Horse Head"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:7697
+#: build/index.js:23839
+#: build/index.js:24197
+msgid "Horse"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:7703
+msgid "Kiwi Bird"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31006
+#: build/index.js:31058
+#: build/index.js:7709
+#: build/index.js:12068
+#: build/index.js:20239
+msgid "Locust"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:30984
+#: build/index.js:31006
+#: build/index.js:31058
+#: build/index.js:7715
+#: build/index.js:9545
+#: build/index.js:12074
+#: build/index.js:20245
+msgid "Mosquito"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:7721
+#: build/index.js:17939
+#: build/index.js:18045
+msgid "Otter"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31040
+#: build/index.js:7727
+#: build/index.js:17533
+msgid "Paw"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:7733
+#: build/index.js:16075
+#: build/index.js:21792
+msgid "Shield Cat"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:7739
+#: build/index.js:16081
+#: build/index.js:21798
+msgid "Shield Dog"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31020
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:7745
+#: build/index.js:13940
+#: build/index.js:17963
+#: build/index.js:18069
+msgid "Shrimp"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31028
+#: build/index.js:31058
+#: build/index.js:7751
+#: build/index.js:14555
+#: build/index.js:20299
+msgid "Spider"
+msgstr ""
+
+#: build/index.js:30974
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31058
+#: build/index.js:7757
+#: build/index.js:12170
+#: build/index.js:16483
+#: build/index.js:20329
+msgid "Worm"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7890
+msgid "Angle Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7896
+msgid "Angle Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7902
+msgid "Angle Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7908
+msgid "Angles Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7914
+msgid "Angles Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7920
+msgid "Angles Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7926
+msgid "Angles Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7932
+msgid "Angle Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7938
+msgid "Arrow Down19"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7944
+msgid "Arrow Down91"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7950
+msgid "Arrow Down AZ"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7956
+msgid "Arrow Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7962
+msgid "Arrow Down Long"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7968
+msgid "Arrow Down Short Wide"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7974
+msgid "Arrow Down Up Across Line"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7980
+msgid "Arrow Down Up Lock"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7986
+msgid "Arrow Down Wide Short"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7992
+msgid "Arrow Down ZA"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:7998
+msgid "Arrow Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8004
+msgid "Arrow Left Long"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8010
+msgid "Arrow Pointer"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8016
+msgid "Arrow Right Arrow Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8022
+msgid "Arrow Right From Bracket"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8028
+msgid "Arrow Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8034
+msgid "Arrow Right Long"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8040
+msgid "Arrow Right To Bracket"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31082
+#: build/index.js:8046
+#: build/index.js:22748
+msgid "Arrow Rotate Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31082
+#: build/index.js:8052
+#: build/index.js:22754
+msgid "Arrow Rotate Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8058
+msgid "Down To Line"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8064
+#: build/index.js:8394
+msgid "Left Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8070
+msgid "Left Right To Line"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31008
+#: build/index.js:31082
+#: build/index.js:8076
+#: build/index.js:8466
+#: build/index.js:12441
+#: build/index.js:22862
+msgid "Rotate"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8082
+msgid "Spin"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8088
+msgid "Split Up And Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8094
+msgid "To Circle"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8100
+msgid "To Dot"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8106
+msgid "To Eye"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8112
+msgid "Turn Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8118
+msgid "Turn To Dots"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8124
+#: build/index.js:8568
+msgid "Up Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8130
+#: build/index.js:8574
+msgid "Up Down Left Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8136
+msgid "Up To Line"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8142
+msgid "Arrow Trend Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8148
+msgid "Arrow Trend Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8154
+msgid "Arrow Turn Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8160
+msgid "Arrow Turn Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8166
+msgid "Arrow Up19"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8172
+msgid "Arrow Up91"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8178
+msgid "Arrow Up AZ"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8184
+msgid "Arrow Up From Bracket"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8190
+msgid "Arrow Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8196
+msgid "Arrow Up Long"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8202
+msgid "Arrow Up Right Dots"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31036
+#: build/index.js:8208
+#: build/index.js:15463
+msgid "Arrow Up Right From Square"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8214
+msgid "Arrow Up Short Wide"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8220
+msgid "Arrow Up Wide Short"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8226
+msgid "Arrow Up ZA"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8232
+msgid "Caret Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8238
+msgid "Caret Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8244
+msgid "Caret Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8250
+msgid "Caret Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8256
+msgid "Chevron Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8262
+msgid "Chevron Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8268
+msgid "Chevron Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8274
+msgid "Chevron Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8280
+msgid "Circle Arrow Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8286
+msgid "Circle Arrow Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8292
+msgid "Circle Arrow Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8298
+msgid "Circle Arrow Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8304
+msgid "Circle Chevron Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8310
+msgid "Circle Chevron Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8316
+msgid "Circle Chevron Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8322
+msgid "Circle Chevron Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8328
+msgid "Circle Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8334
+msgid "Circle Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8340
+msgid "Circle Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8346
+msgid "Circle Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31050
+#: build/index.js:8352
+#: build/index.js:18741
+msgid "Clock Rotate Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:30998
+#: build/index.js:8358
+#: build/index.js:10930
+msgid "Cloud Arrow Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:30998
+#: build/index.js:8364
+#: build/index.js:10936
+msgid "Cloud Arrow Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8370
+msgid "Down Left And Up Right To Center"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31004
+#: build/index.js:8376
+#: build/index.js:11717
+msgid "Download"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8382
+msgid "Down Long"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8388
+msgid "Left Long"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31040
+#: build/index.js:8400
+#: build/index.js:17407
+msgid "Location Arrow"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8406
+msgid "Maximize"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31040
+#: build/index.js:8412
+#: build/index.js:17593
+msgid "Recycle"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8418
+msgid "Repeat"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8424
+msgid "Reply All"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8430
+msgid "Reply"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31080
+#: build/index.js:8436
+#: build/index.js:22616
+msgid "Retweet"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8442
+msgid "Right From Bracket"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8448
+msgid "Right Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8454
+msgid "Right Long"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8460
+msgid "Right To Bracket"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31082
+#: build/index.js:8472
+#: build/index.js:22868
+msgid "Rotate Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31082
+#: build/index.js:8478
+#: build/index.js:22874
+msgid "Rotate Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31080
+#: build/index.js:8484
+#: build/index.js:22622
+msgid "Share From Square"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31080
+#: build/index.js:8490
+#: build/index.js:22628
+msgid "Share"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8496
+msgid "Shuffle"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8502
+msgid "Sort Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8508
+msgid "Sort"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8514
+msgid "Sort Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8520
+msgid "Square Arrow Up Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8526
+msgid "Square Caret Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8532
+msgid "Square Caret Left"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8538
+msgid "Square Caret Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8544
+msgid "Square Caret Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8550
+msgid "Square Up Right"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8556
+msgid "Turn Down"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8562
+msgid "Turn Up"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:31004
+#: build/index.js:8580
+#: build/index.js:11903
+msgid "Upload"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8586
+msgid "Up Long"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8592
+msgid "Up Right And Down Left From Center"
+msgstr ""
+
+#: build/index.js:30976
+#: build/index.js:8598
+msgid "Up Right From Square"
+msgstr ""
+
+#: build/index.js:30978
+#: build/index.js:30984
+#: build/index.js:31040
+#: build/index.js:31058
+#: build/index.js:8620
+#: build/index.js:9443
+#: build/index.js:17095
+#: build/index.js:20167
+msgid "Binoculars"
+msgstr ""
+
+#: build/index.js:30978
+#: build/index.js:30986
+#: build/index.js:30998
+#: build/index.js:31040
+#: build/index.js:8626
+#: build/index.js:9717
+#: build/index.js:10954
+#: build/index.js:17281
+msgid "Globe"
+msgstr ""
+
+#: build/index.js:30978
+#: build/index.js:31098
+#: build/index.js:8632
+#: build/index.js:25403
+msgid "Meteor"
+msgstr ""
+
+#: build/index.js:30978
+#: build/index.js:31098
+#: build/index.js:8638
+#: build/index.js:25409
+msgid "Moon"
+msgstr ""
+
+#: build/index.js:30978
+#: build/index.js:30998
+#: build/index.js:31004
+#: build/index.js:31036
+#: build/index.js:8644
+#: build/index.js:10972
+#: build/index.js:11843
+#: build/index.js:16015
+msgid "Satellite Dish"
+msgstr ""
+
+#: build/index.js:30978
+#: build/index.js:31004
+#: build/index.js:8650
+#: build/index.js:11849
+msgid "Satellite"
+msgstr ""
+
+#: build/index.js:30978
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8656
+#: build/index.js:23929
+#: build/index.js:24287
+msgid "Shuttle Space"
+msgstr ""
+
+#: build/index.js:30978
+#: build/index.js:31096
+#: build/index.js:8662
+#: build/index.js:25070
+msgid "User Astronaut"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8704
+#: build/index.js:16643
+#: build/index.js:23773
+#: build/index.js:24131
+msgid "Bus"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8710
+#: build/index.js:16649
+#: build/index.js:23779
+#: build/index.js:24137
+msgid "Bus Simple"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:30984
+#: build/index.js:31054
+#: build/index.js:8716
+#: build/index.js:9467
+#: build/index.js:19884
+msgid "Caravan"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31004
+#: build/index.js:31014
+#: build/index.js:8722
+#: build/index.js:11675
+#: build/index.js:13048
+msgid "Car Battery"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8728
+#: build/index.js:23791
+#: build/index.js:24149
+msgid "Car Burst"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8734
+#: build/index.js:15481
+#: build/index.js:16655
+#: build/index.js:17161
+#: build/index.js:23797
+#: build/index.js:24155
+msgid "Car"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31074
+#: build/index.js:8740
+#: build/index.js:21546
+msgid "Car On"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8746
+#: build/index.js:23803
+#: build/index.js:24161
+msgid "Car Rear"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8752
+#: build/index.js:23809
+#: build/index.js:24167
+msgid "Car Side"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8758
+#: build/index.js:16667
+#: build/index.js:23821
+#: build/index.js:24179
+msgid "Car Tunnel"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31014
+#: build/index.js:8764
+#: build/index.js:13054
+msgid "Charging Station"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31014
+#: build/index.js:31038
+#: build/index.js:8770
+#: build/index.js:13096
+#: build/index.js:16709
+msgid "Gas Pump"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:8776
+msgid "Gauge High"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:8782
+msgid "Gauge"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:8788
+msgid "Gauge Simple High"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:8794
+msgid "Gauge Simple"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8800
+#: build/index.js:17503
+#: build/index.js:23857
+#: build/index.js:24215
+msgid "Motorcycle"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:8806
+msgid "Oil Can"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:8812
+msgid "Spray Can Sparkles"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8818
+#: build/index.js:17737
+#: build/index.js:23947
+#: build/index.js:24305
+msgid "Taxi"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:30984
+#: build/index.js:31054
+#: build/index.js:8824
+#: build/index.js:9653
+#: build/index.js:19938
+msgid "Trailer"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8830
+#: build/index.js:16333
+#: build/index.js:16853
+#: build/index.js:23989
+#: build/index.js:24347
+msgid "Truck Field"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8836
+#: build/index.js:16339
+#: build/index.js:16859
+#: build/index.js:23995
+#: build/index.js:24353
+msgid "Truck Field Un"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:31054
+#: build/index.js:31078
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8842
+#: build/index.js:16351
+#: build/index.js:16871
+#: build/index.js:17797
+#: build/index.js:19944
+#: build/index.js:22481
+#: build/index.js:24007
+#: build/index.js:24365
+msgid "Truck"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8848
+#: build/index.js:16357
+#: build/index.js:17803
+#: build/index.js:19227
+#: build/index.js:24013
+#: build/index.js:24371
+msgid "Truck Medical"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8854
+#: build/index.js:24019
+#: build/index.js:24377
+msgid "Truck Monster"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31000
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8860
+#: build/index.js:11208
+#: build/index.js:24025
+#: build/index.js:24383
+msgid "Truck Pickup"
+msgstr ""
+
+#: build/index.js:30980
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:8866
+#: build/index.js:24037
+#: build/index.js:24395
+msgid "Van Shuttle"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:8954
+msgid "Archway"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:8960
+msgid "Arrow Right To City"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:8966
+msgid "Building Circle Arrow Right"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:8972
+msgid "Building Circle Check"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:8978
+msgid "Building Circle Exclamation"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:8984
+msgid "Building Circle Xmark"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31040
+#: build/index.js:8990
+#: build/index.js:17143
+msgid "Building Columns"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31064
+#: build/index.js:8996
+#: build/index.js:20623
+msgid "Building Flag"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:9002
+#: build/index.js:15475
+#: build/index.js:17149
+msgid "Building"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31074
+#: build/index.js:9008
+#: build/index.js:21528
+msgid "Building Lock"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9014
+msgid "Building Ngo"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31074
+#: build/index.js:9020
+#: build/index.js:21534
+msgid "Building Shield"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9026
+msgid "Building Un"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9032
+msgid "Building User"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9038
+msgid "Building Wheat"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:30984
+#: build/index.js:9044
+#: build/index.js:9461
+msgid "Campground"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31068
+#: build/index.js:9050
+#: build/index.js:15487
+#: build/index.js:20953
+msgid "Church"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9056
+msgid "City"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31024
+#: build/index.js:31034
+#: build/index.js:31074
+#: build/index.js:9062
+#: build/index.js:14230
+#: build/index.js:15054
+#: build/index.js:21564
+msgid "Dungeon"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31068
+#: build/index.js:9068
+#: build/index.js:15523
+#: build/index.js:20977
+msgid "Gopuram"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:9074
+#: build/index.js:15541
+#: build/index.js:17317
+#: build/index.js:18921
+msgid "Hospital"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:9080
+#: build/index.js:18927
+#: build/index.js:24668
+msgid "Hospital User"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:9086
+#: build/index.js:15547
+msgid "Hotel"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31006
+#: build/index.js:9092
+#: build/index.js:12026
+msgid "House Chimney Crack"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31054
+#: build/index.js:9098
+#: build/index.js:19902
+msgid "House Chimney"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31050
+#: build/index.js:9104
+#: build/index.js:18933
+msgid "House Chimney Medical"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31034
+#: build/index.js:9110
+#: build/index.js:15090
+msgid "House Chimney Window"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9116
+msgid "House Circle Check"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9122
+msgid "House Circle Exclamation"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9128
+msgid "House Circle Xmark"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31006
+#: build/index.js:9134
+#: build/index.js:12032
+msgid "House Crack"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31006
+#: build/index.js:31034
+#: build/index.js:31074
+#: build/index.js:9140
+#: build/index.js:12038
+#: build/index.js:15096
+#: build/index.js:21642
+msgid "House Fire"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9146
+msgid "House Flag"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31040
+#: build/index.js:9152
+#: build/index.js:17323
+msgid "House"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31034
+#: build/index.js:31074
+#: build/index.js:9158
+#: build/index.js:15108
+#: build/index.js:21648
+msgid "House Lock"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31050
+#: build/index.js:9164
+#: build/index.js:18939
+msgid "House Medical Circle Check"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31050
+#: build/index.js:9170
+#: build/index.js:18945
+msgid "House Medical Circle Exclamation"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31050
+#: build/index.js:9176
+#: build/index.js:18951
+msgid "House Medical Circle Xmark"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31050
+#: build/index.js:9182
+#: build/index.js:18957
+msgid "House Medical Flag"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31050
+#: build/index.js:9188
+#: build/index.js:18963
+msgid "House Medical"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:9194
+msgid "Igloo"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31014
+#: build/index.js:31040
+#: build/index.js:9200
+#: build/index.js:13102
+#: build/index.js:17341
+msgid "Industry"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31068
+#: build/index.js:9206
+#: build/index.js:21007
+msgid "Kaaba"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31064
+#: build/index.js:9212
+#: build/index.js:20689
+msgid "Landmark Dome"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31040
+#: build/index.js:31064
+#: build/index.js:9218
+#: build/index.js:17365
+#: build/index.js:20695
+msgid "Landmark Flag"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31052
+#: build/index.js:9224
+#: build/index.js:15553
+#: build/index.js:17371
+#: build/index.js:19608
+msgid "Landmark"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31040
+#: build/index.js:9230
+#: build/index.js:17497
+msgid "Monument"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31068
+#: build/index.js:9236
+#: build/index.js:21025
+msgid "Mosque"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31058
+#: build/index.js:9242
+#: build/index.js:15565
+#: build/index.js:20257
+msgid "Mountain City"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:9248
+#: build/index.js:13120
+#: build/index.js:15577
+msgid "Oil Well"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31068
+#: build/index.js:9254
+#: build/index.js:21049
+msgid "Place Of Worship"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31010
+#: build/index.js:31036
+#: build/index.js:9260
+#: build/index.js:12647
+#: build/index.js:16027
+msgid "School Circle Check"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31010
+#: build/index.js:31036
+#: build/index.js:9266
+#: build/index.js:12653
+#: build/index.js:16033
+msgid "School Circle Exclamation"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31010
+#: build/index.js:31036
+#: build/index.js:9272
+#: build/index.js:12659
+#: build/index.js:16039
+msgid "School Circle Xmark"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31010
+#: build/index.js:31036
+#: build/index.js:9278
+#: build/index.js:12665
+#: build/index.js:16045
+msgid "School Flag"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:30990
+#: build/index.js:31010
+#: build/index.js:31036
+#: build/index.js:9284
+#: build/index.js:10091
+#: build/index.js:12671
+#: build/index.js:16051
+msgid "School"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31010
+#: build/index.js:31036
+#: build/index.js:9290
+#: build/index.js:12677
+#: build/index.js:16057
+msgid "School Lock"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31078
+#: build/index.js:9296
+#: build/index.js:16105
+#: build/index.js:22397
+msgid "Shop"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31078
+#: build/index.js:9302
+#: build/index.js:16111
+#: build/index.js:22403
+msgid "Shop Lock"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31078
+#: build/index.js:9308
+#: build/index.js:22421
+msgid "Store"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31068
+#: build/index.js:9314
+#: build/index.js:21079
+msgid "Synagogue"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:30984
+#: build/index.js:31036
+#: build/index.js:9320
+#: build/index.js:9611
+#: build/index.js:16213
+msgid "Tent Arrow Down To Line"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:30984
+#: build/index.js:31036
+#: build/index.js:9326
+#: build/index.js:9617
+#: build/index.js:16219
+msgid "Tent Arrow Left Right"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:30984
+#: build/index.js:31036
+#: build/index.js:9332
+#: build/index.js:9623
+#: build/index.js:16225
+msgid "Tent Arrows Down"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:30984
+#: build/index.js:31036
+#: build/index.js:9338
+#: build/index.js:9629
+#: build/index.js:16231
+msgid "Tent Arrow Turn Left"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:30984
+#: build/index.js:31036
+#: build/index.js:9344
+#: build/index.js:9635
+#: build/index.js:16237
+msgid "Tent"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:30984
+#: build/index.js:31036
+#: build/index.js:9350
+#: build/index.js:9641
+#: build/index.js:16243
+msgid "Tents"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31000
+#: build/index.js:31036
+#: build/index.js:9356
+#: build/index.js:11178
+#: build/index.js:16255
+msgid "Toilet Portable"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31000
+#: build/index.js:31036
+#: build/index.js:9362
+#: build/index.js:11184
+#: build/index.js:16261
+msgid "Toilets Portable"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31068
+#: build/index.js:9368
+#: build/index.js:21085
+msgid "Torii Gate"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:9374
+#: build/index.js:16285
+#: build/index.js:21834
+msgid "Tower Observation"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:9380
+#: build/index.js:16303
+msgid "Tree City"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31036
+#: build/index.js:31068
+#: build/index.js:9386
+#: build/index.js:16423
+#: build/index.js:21091
+msgid "Vihara"
+msgstr ""
+
+#: build/index.js:30982
+#: build/index.js:31038
+#: build/index.js:9392
+#: build/index.js:16883
+msgid "Warehouse"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31020
+#: build/index.js:9449
+#: build/index.js:13736
+msgid "Bottle Water"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:30990
+#: build/index.js:31000
+#: build/index.js:9455
+#: build/index.js:9989
+#: build/index.js:11058
+msgid "Bucket"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31082
+#: build/index.js:9473
+#: build/index.js:22808
+msgid "Compass"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31034
+#: build/index.js:9479
+#: build/index.js:15066
+msgid "Faucet Drip"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31034
+#: build/index.js:9485
+#: build/index.js:15072
+msgid "Faucet"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31034
+#: build/index.js:9491
+#: build/index.js:15078
+msgid "Fire Burner"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31014
+#: build/index.js:31040
+#: build/index.js:31070
+#: build/index.js:31084
+#: build/index.js:9497
+#: build/index.js:13078
+#: build/index.js:17233
+#: build/index.js:21204
+#: build/index.js:22999
+msgid "Fire Flame Curved"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31014
+#: build/index.js:31040
+#: build/index.js:31058
+#: build/index.js:31070
+#: build/index.js:9503
+#: build/index.js:13090
+#: build/index.js:17239
+#: build/index.js:20215
+#: build/index.js:21216
+msgid "Fire"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31050
+#: build/index.js:9515
+#: build/index.js:18981
+msgid "Kit Medical"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31040
+#: build/index.js:9521
+#: build/index.js:17467
+msgid "Map"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:9527
+msgid "Map Location Dot"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:9533
+msgid "Map Location"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31034
+#: build/index.js:9539
+#: build/index.js:15156
+msgid "Mattress Pillow"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:9551
+msgid "Mosquito Net"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31058
+#: build/index.js:9557
+#: build/index.js:20263
+msgid "Mountain"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31058
+#: build/index.js:9563
+#: build/index.js:15571
+#: build/index.js:17509
+#: build/index.js:20269
+msgid "Mountain Sun"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:9569
+#: build/index.js:15168
+#: build/index.js:15619
+#: build/index.js:24758
+msgid "People Roof"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31058
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:9575
+#: build/index.js:20275
+#: build/index.js:23065
+#: build/index.js:24902
+msgid "Person Hiking"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:9581
+#: build/index.js:15787
+#: build/index.js:21774
+#: build/index.js:24962
+msgid "Person Shelter"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31040
+#: build/index.js:31054
+#: build/index.js:9587
+#: build/index.js:17617
+#: build/index.js:19914
+msgid "Route"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31040
+#: build/index.js:31058
+#: build/index.js:9593
+#: build/index.js:17659
+#: build/index.js:20293
+msgid "Signs Post"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31000
+#: build/index.js:31036
+#: build/index.js:9599
+#: build/index.js:11166
+#: build/index.js:16189
+msgid "Tarp Droplet"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31000
+#: build/index.js:31036
+#: build/index.js:9605
+#: build/index.js:11172
+#: build/index.js:16195
+msgid "Tarp"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31028
+#: build/index.js:31034
+#: build/index.js:9647
+#: build/index.js:14561
+#: build/index.js:15252
+msgid "Toilet Paper"
+msgstr ""
+
+#: build/index.js:30984
+#: build/index.js:31040
+#: build/index.js:31058
+#: build/index.js:9659
+#: build/index.js:17785
+#: build/index.js:20305
+msgid "Tree"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31052
+#: build/index.js:31064
+#: build/index.js:9693
+#: build/index.js:19476
+#: build/index.js:20647
+msgid "Circle Dollar To Slot"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31040
+#: build/index.js:31052
+#: build/index.js:9699
+#: build/index.js:17191
+#: build/index.js:19518
+msgid "Dollar Sign"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31032
+#: build/index.js:31040
+#: build/index.js:31078
+#: build/index.js:9711
+#: build/index.js:14884
+#: build/index.js:17275
+#: build/index.js:22307
+msgid "Gift"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31030
+#: build/index.js:31052
+#: build/index.js:9723
+#: build/index.js:14634
+#: build/index.js:19584
+msgid "Hand Holding Dollar"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31030
+#: build/index.js:31050
+#: build/index.js:9729
+#: build/index.js:14640
+#: build/index.js:18837
+msgid "Hand Holding Droplet"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31030
+#: build/index.js:9735
+#: build/index.js:14646
+msgid "Hand Holding Hand"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31030
+#: build/index.js:9741
+#: build/index.js:14652
+msgid "Hand Holding Heart"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31064
+#: build/index.js:31078
+#: build/index.js:9753
+#: build/index.js:20683
+#: build/index.js:22331
+msgid "Handshake"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:9759
+msgid "Handshake Simple"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:30990
+#: build/index.js:31074
+#: build/index.js:9765
+#: build/index.js:10049
+#: build/index.js:21630
+msgid "Hands Holding Child"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31074
+#: build/index.js:9771
+#: build/index.js:21636
+msgid "Hands Holding Circle"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31024
+#: build/index.js:31032
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:31076
+#: build/index.js:31078
+#: build/index.js:31080
+#: build/index.js:31084
+#: build/index.js:9777
+#: build/index.js:14272
+#: build/index.js:14896
+#: build/index.js:17293
+#: build/index.js:18909
+#: build/index.js:21998
+#: build/index.js:22337
+#: build/index.js:22568
+#: build/index.js:23029
+msgid "Heart"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31014
+#: build/index.js:31022
+#: build/index.js:31040
+#: build/index.js:31058
+#: build/index.js:9783
+#: build/index.js:13108
+#: build/index.js:14014
+#: build/index.js:17383
+#: build/index.js:20233
+msgid "Leaf"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31036
+#: build/index.js:9789
+#: build/index.js:15583
+msgid "Parachute Box"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31052
+#: build/index.js:31064
+#: build/index.js:9795
+#: build/index.js:19728
+#: build/index.js:20707
+msgid "Piggy Bank"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:9801
+msgid "Ribbon"
+msgstr ""
+
+#: build/index.js:30986
+#: build/index.js:31014
+#: build/index.js:31020
+#: build/index.js:31022
+#: build/index.js:31036
+#: build/index.js:31058
+#: build/index.js:31070
+#: build/index.js:9807
+#: build/index.js:13186
+#: build/index.js:13934
+#: build/index.js:14032
+#: build/index.js:16063
+#: build/index.js:20287
+#: build/index.js:21276
+msgid "Seedling"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:9836
+msgid "Bars Progress"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:9842
+msgid "Chart Area"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:9848
+msgid "Chart Bar"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:9854
+msgid "Chart Column"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:9860
+msgid "Chart Gantt"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:31052
+#: build/index.js:9866
+#: build/index.js:19464
+msgid "Chart Line"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:31052
+#: build/index.js:9872
+#: build/index.js:19470
+msgid "Chart Pie"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:31008
+#: build/index.js:31038
+#: build/index.js:9878
+#: build/index.js:12261
+#: build/index.js:16673
+msgid "Chart Simple"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:31062
+#: build/index.js:31076
+#: build/index.js:9884
+#: build/index.js:11294
+#: build/index.js:12285
+#: build/index.js:20481
+#: build/index.js:21932
+msgid "Circle Half Stroke"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:9890
+msgid "Diagram Next"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:9896
+msgid "Diagram Predecessor"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:30994
+#: build/index.js:9902
+#: build/index.js:10356
+msgid "Diagram Project"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:9908
+msgid "Diagram Successor"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:31080
+#: build/index.js:9914
+#: build/index.js:22640
+msgid "Square Poll Horizontal"
+msgstr ""
+
+#: build/index.js:30988
+#: build/index.js:31080
+#: build/index.js:9920
+#: build/index.js:22646
+msgid "Square Poll Vertical"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31010
+#: build/index.js:31020
+#: build/index.js:31022
+#: build/index.js:9959
+#: build/index.js:12551
+#: build/index.js:13700
+#: build/index.js:14002
+msgid "Apple Whole"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:9965
+#: build/index.js:23761
+#: build/index.js:24119
+msgid "Baby Carriage"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:9971
+#: build/index.js:15469
+#: build/index.js:24566
+msgid "Baby"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31084
+#: build/index.js:9977
+#: build/index.js:22957
+msgid "Baseball Bat Ball"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:30994
+#: build/index.js:31034
+#: build/index.js:31040
+#: build/index.js:9983
+#: build/index.js:10272
+#: build/index.js:14994
+#: build/index.js:17059
+msgid "Bath"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31020
+#: build/index.js:31040
+#: build/index.js:31080
+#: build/index.js:9995
+#: build/index.js:13766
+#: build/index.js:17155
+#: build/index.js:22532
+msgid "Cake Candles"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31096
+#: build/index.js:10001
+#: build/index.js:24584
+msgid "Child Dress"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31096
+#: build/index.js:10007
+#: build/index.js:24590
+msgid "Child"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31096
+#: build/index.js:10013
+#: build/index.js:24596
+msgid "Child Reaching"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31096
+#: build/index.js:10019
+#: build/index.js:24602
+msgid "Children"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31032
+#: build/index.js:10025
+#: build/index.js:14866
+msgid "Cookie Bite"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31020
+#: build/index.js:10031
+#: build/index.js:13802
+msgid "Cookie"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31020
+#: build/index.js:31076
+#: build/index.js:10037
+#: build/index.js:13808
+#: build/index.js:21968
+msgid "Cubes Stacked"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31004
+#: build/index.js:31024
+#: build/index.js:31040
+#: build/index.js:10043
+#: build/index.js:11741
+#: build/index.js:14242
+#: build/index.js:17263
+msgid "Gamepad"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31020
+#: build/index.js:10055
+#: build/index.js:13862
+msgid "Ice Cream"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:30992
+#: build/index.js:10061
+#: build/index.js:10159
+msgid "Mitten"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:10067
+#: build/index.js:23059
+#: build/index.js:24776
+msgid "Person Biking"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:10073
+#: build/index.js:15637
+#: build/index.js:19041
+#: build/index.js:24788
+msgid "Person Breastfeeding"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31024
+#: build/index.js:10079
+#: build/index.js:14284
+msgid "Puzzle Piece"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:10085
+msgid "Robot"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31010
+#: build/index.js:31101
+#: build/index.js:10097
+#: build/index.js:12683
+#: build/index.js:25965
+msgid "Shapes"
+msgstr ""
+
+#: build/index.js:30990
+#: build/index.js:31032
+#: build/index.js:10103
+#: build/index.js:14926
+msgid "Snowman"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:10129
+msgid "Glasses"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:31010
+#: build/index.js:31040
+#: build/index.js:10135
+#: build/index.js:12605
+#: build/index.js:17287
+msgid "Graduation Cap"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:10141
+msgid "Hat Cowboy"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:10147
+msgid "Hat Cowboy Side"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:31024
+#: build/index.js:31028
+#: build/index.js:10153
+#: build/index.js:14260
+#: build/index.js:14531
+msgid "Hat Wizard"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:31036
+#: build/index.js:31078
+#: build/index.js:10165
+#: build/index.js:16099
+#: build/index.js:22391
+msgid "Shirt"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:31040
+#: build/index.js:31084
+#: build/index.js:10171
+#: build/index.js:17647
+#: build/index.js:23119
+msgid "Shoe Prints"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:10177
+msgid "Socks"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:31096
+#: build/index.js:10183
+#: build/index.js:25244
+msgid "User Tie"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:31040
+#: build/index.js:10189
+#: build/index.js:17827
+msgid "Vest"
+msgstr ""
+
+#: build/index.js:30992
+#: build/index.js:31040
+#: build/index.js:10195
+#: build/index.js:17833
+msgid "Vest Patches"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31078
+#: build/index.js:10254
+#: build/index.js:22145
+msgid "Barcode"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31008
+#: build/index.js:10260
+#: build/index.js:12249
+msgid "Bars"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10266
+msgid "Bars Staggered"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31016
+#: build/index.js:31054
+#: build/index.js:31100
+#: build/index.js:10278
+#: build/index.js:13265
+#: build/index.js:19866
+#: build/index.js:25595
+msgid "Box Archive"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31058
+#: build/index.js:31074
+#: build/index.js:10284
+#: build/index.js:20173
+#: build/index.js:21516
+msgid "Bug"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31074
+#: build/index.js:10290
+#: build/index.js:21522
+msgid "Bug Slash"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:30998
+#: build/index.js:31002
+#: build/index.js:10296
+#: build/index.js:10924
+#: build/index.js:11300
+msgid "Circle Nodes"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10302
+msgid "Code Branch"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10308
+msgid "Code Commit"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10314
+msgid "Code Compare"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10320
+msgid "Code Fork"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10326
+msgid "Code"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10332
+msgid "Code Merge"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10338
+msgid "Code Pull Request"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:10344
+#: build/index.js:11342
+#: build/index.js:12303
+msgid "Cube"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31002
+#: build/index.js:10350
+#: build/index.js:11348
+msgid "Cubes"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31016
+#: build/index.js:10362
+#: build/index.js:13337
+msgid "File Code"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31016
+#: build/index.js:31036
+#: build/index.js:31076
+#: build/index.js:31100
+#: build/index.js:10368
+#: build/index.js:13373
+#: build/index.js:15505
+#: build/index.js:21980
+#: build/index.js:25619
+msgid "File"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31016
+#: build/index.js:31100
+#: build/index.js:10374
+#: build/index.js:13379
+#: build/index.js:25625
+msgid "File Lines"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31070
+#: build/index.js:10380
+#: build/index.js:21198
+msgid "Filter"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31040
+#: build/index.js:10386
+#: build/index.js:17227
+msgid "Fire Extinguisher"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31016
+#: build/index.js:31076
+#: build/index.js:31100
+#: build/index.js:10392
+#: build/index.js:13439
+#: build/index.js:21986
+#: build/index.js:25631
+msgid "Folder"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31016
+#: build/index.js:31100
+#: build/index.js:10398
+#: build/index.js:13445
+#: build/index.js:25637
+msgid "Folder Open"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31008
+#: build/index.js:31082
+#: build/index.js:10410
+#: build/index.js:12339
+#: build/index.js:22832
+msgid "Gear"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31038
+#: build/index.js:10416
+#: build/index.js:16715
+msgid "Gears"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31004
+#: build/index.js:31100
+#: build/index.js:10422
+#: build/index.js:11765
+#: build/index.js:25643
+msgid "Keyboard"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31010
+#: build/index.js:10428
+#: build/index.js:12611
+msgid "Laptop Code"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31004
+#: build/index.js:10434
+#: build/index.js:11789
+msgid "Microchip"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31020
+#: build/index.js:31034
+#: build/index.js:31040
+#: build/index.js:10440
+#: build/index.js:13910
+#: build/index.js:15162
+#: build/index.js:17515
+msgid "Mug Saucer"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10446
+msgid "Network Wired"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31100
+#: build/index.js:10452
+#: build/index.js:25655
+msgid "Notdef"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10458
+msgid "Qrcode"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10464
+msgid "Rectangle Xmark"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31024
+#: build/index.js:31074
+#: build/index.js:10470
+#: build/index.js:14302
+#: build/index.js:21804
+msgid "Shield Halved"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31074
+#: build/index.js:31076
+#: build/index.js:10476
+#: build/index.js:21816
+#: build/index.js:22028
+msgid "Shield"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10482
+msgid "Sitemap"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10488
+msgid "Terminal"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:10494
+#: build/index.js:21858
+#: build/index.js:25178
+msgid "User Secret"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:31002
+#: build/index.js:10500
+#: build/index.js:11600
+msgid "Web Awesome"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10506
+msgid "Window Maximize"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10512
+msgid "Window Minimize"
+msgstr ""
+
+#: build/index.js:30994
+#: build/index.js:10518
+msgid "Window Restore"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31096
+#: build/index.js:10584
+#: build/index.js:24548
+msgid "Address Book"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31066
+#: build/index.js:10596
+#: build/index.js:20769
+msgid "At"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31004
+#: build/index.js:10602
+#: build/index.js:11657
+msgid "Blender Phone"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10608
+msgid "Bluetooth B"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31064
+#: build/index.js:31078
+#: build/index.js:10614
+#: build/index.js:20629
+#: build/index.js:22181
+msgid "Bullhorn"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10620
+msgid "Comment Dots"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31076
+#: build/index.js:31080
+#: build/index.js:10626
+#: build/index.js:21956
+#: build/index.js:22550
+msgid "Comment"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31050
+#: build/index.js:10632
+#: build/index.js:18747
+msgid "Comment Medical"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10638
+msgid "Comments"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10644
+msgid "Comment Slash"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10650
+msgid "Comment Sms"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10662
+msgid "Envelope Circle Check"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31036
+#: build/index.js:31080
+#: build/index.js:31100
+#: build/index.js:10668
+#: build/index.js:15499
+#: build/index.js:22556
+#: build/index.js:25601
+msgid "Envelope"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31100
+#: build/index.js:10674
+#: build/index.js:25607
+msgid "Envelope Open"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31012
+#: build/index.js:31096
+#: build/index.js:10680
+#: build/index.js:12757
+#: build/index.js:24626
+msgid "Face Frown"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31012
+#: build/index.js:31096
+#: build/index.js:10686
+#: build/index.js:12901
+#: build/index.js:24632
+msgid "Face Meh"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31012
+#: build/index.js:31096
+#: build/index.js:10692
+#: build/index.js:12931
+#: build/index.js:24638
+msgid "Face Smile"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31004
+#: build/index.js:10698
+#: build/index.js:11729
+msgid "Fax"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31002
+#: build/index.js:31080
+#: build/index.js:10710
+#: build/index.js:11426
+#: build/index.js:22574
+msgid "Icons"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10716
+msgid "Inbox"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10722
+msgid "Language"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31080
+#: build/index.js:10728
+#: build/index.js:22604
+msgid "Message"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31018
+#: build/index.js:31056
+#: build/index.js:31090
+#: build/index.js:10734
+#: build/index.js:13560
+#: build/index.js:20035
+#: build/index.js:23637
+msgid "Microphone"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31018
+#: build/index.js:31056
+#: build/index.js:10740
+#: build/index.js:13566
+#: build/index.js:20041
+msgid "Microphone Lines"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31018
+#: build/index.js:31056
+#: build/index.js:10746
+#: build/index.js:13572
+#: build/index.js:20047
+msgid "Microphone Lines Slash"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31018
+#: build/index.js:31056
+#: build/index.js:31090
+#: build/index.js:10752
+#: build/index.js:13578
+#: build/index.js:20053
+#: build/index.js:23643
+msgid "Microphone Slash"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31004
+#: build/index.js:10758
+#: build/index.js:11795
+msgid "Mobile Button"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31004
+#: build/index.js:10764
+#: build/index.js:11801
+msgid "Mobile"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31004
+#: build/index.js:10770
+#: build/index.js:11807
+msgid "Mobile Retro"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31004
+#: build/index.js:10776
+#: build/index.js:11813
+msgid "Mobile Screen Button"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31004
+#: build/index.js:10782
+#: build/index.js:11819
+msgid "Mobile Screen"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:31100
+#: build/index.js:10788
+#: build/index.js:23869
+#: build/index.js:24227
+#: build/index.js:25673
+msgid "Paper Plane"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31040
+#: build/index.js:10794
+#: build/index.js:17551
+msgid "Phone Flip"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31040
+#: build/index.js:10800
+#: build/index.js:17557
+msgid "Phone"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10806
+msgid "Phone Slash"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31096
+#: build/index.js:10818
+#: build/index.js:25040
+msgid "Poo"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31066
+#: build/index.js:31100
+#: build/index.js:10824
+#: build/index.js:20853
+#: build/index.js:25709
+msgid "Quote Left"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31066
+#: build/index.js:31100
+#: build/index.js:10830
+#: build/index.js:20859
+#: build/index.js:25715
+msgid "Quote Right"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10836
+msgid "Square Envelope"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31040
+#: build/index.js:10842
+#: build/index.js:17689
+msgid "Square Phone Flip"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31040
+#: build/index.js:10848
+#: build/index.js:17695
+msgid "Square Phone"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31018
+#: build/index.js:10854
+#: build/index.js:13596
+msgid "Square Rss"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:30998
+#: build/index.js:31018
+#: build/index.js:31036
+#: build/index.js:10860
+#: build/index.js:10990
+#: build/index.js:13614
+#: build/index.js:16279
+msgid "Tower Cell"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31018
+#: build/index.js:31080
+#: build/index.js:10872
+#: build/index.js:13626
+#: build/index.js:22706
+msgid "Video"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31018
+#: build/index.js:10878
+#: build/index.js:13632
+msgid "Video Slash"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:10884
+msgid "Voicemail"
+msgstr ""
+
+#: build/index.js:30996
+#: build/index.js:31004
+#: build/index.js:31036
+#: build/index.js:10890
+#: build/index.js:11909
+#: build/index.js:16447
+msgid "Walkie Talkie"
+msgstr ""
+
+#: build/index.js:30998
+#: build/index.js:10918
+msgid "Bluetooth"
+msgstr ""
+
+#: build/index.js:30998
+#: build/index.js:31076
+#: build/index.js:31098
+#: build/index.js:10942
+#: build/index.js:21944
+#: build/index.js:25331
+msgid "Cloud"
+msgstr ""
+
+#: build/index.js:30998
+#: build/index.js:31004
+#: build/index.js:10948
+#: build/index.js:11723
+msgid "Ethernet"
+msgstr ""
+
+#: build/index.js:30998
+#: build/index.js:31034
+#: build/index.js:10960
+#: build/index.js:15114
+msgid "House Signal"
+msgstr ""
+
+#: build/index.js:30998
+#: build/index.js:10966
+msgid "Rss"
+msgstr ""
+
+#: build/index.js:30998
+#: build/index.js:31090
+#: build/index.js:10978
+#: build/index.js:23655
+msgid "Signal"
+msgstr ""
+
+#: build/index.js:30998
+#: build/index.js:31014
+#: build/index.js:31018
+#: build/index.js:31036
+#: build/index.js:10984
+#: build/index.js:13204
+#: build/index.js:13608
+#: build/index.js:16273
+msgid "Tower Broadcast"
+msgstr ""
+
+#: build/index.js:30998
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31090
+#: build/index.js:10996
+#: build/index.js:16471
+#: build/index.js:17851
+#: build/index.js:23691
+msgid "Wifi"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31014
+#: build/index.js:11040
+#: build/index.js:13000
+msgid "Arrow Up From Ground Water"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:11046
+msgid "Bore Hole"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11052
+#: build/index.js:11288
+#: build/index.js:12255
+msgid "Brush"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31002
+#: build/index.js:11064
+#: build/index.js:11312
+msgid "Compass Drafting"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31064
+#: build/index.js:11070
+#: build/index.js:20665
+msgid "Dumpster Fire"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:11076
+msgid "Dumpster"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31036
+#: build/index.js:11082
+#: build/index.js:15529
+msgid "Hammer"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31038
+#: build/index.js:11088
+#: build/index.js:16733
+msgid "Helmet Safety"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31058
+#: build/index.js:31084
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:11094
+#: build/index.js:20251
+#: build/index.js:23053
+#: build/index.js:23863
+#: build/index.js:24221
+msgid "Mound"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31002
+#: build/index.js:11100
+#: build/index.js:11468
+msgid "Paint Roller"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:31100
+#: build/index.js:11106
+#: build/index.js:11486
+#: build/index.js:12393
+#: build/index.js:25685
+msgid "Pencil"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11112
+#: build/index.js:11516
+#: build/index.js:12423
+msgid "Pen Ruler"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:11118
+#: build/index.js:15697
+#: build/index.js:24848
+msgid "Person Digging"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31002
+#: build/index.js:11124
+#: build/index.js:11528
+msgid "Ruler Combined"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31002
+#: build/index.js:11130
+#: build/index.js:11534
+msgid "Ruler Horizontal"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:11136
+msgid "Ruler"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31002
+#: build/index.js:11142
+#: build/index.js:11540
+msgid "Ruler Vertical"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:11148
+msgid "Screwdriver"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:11154
+msgid "Screwdriver Wrench"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:11160
+#: build/index.js:15192
+#: build/index.js:16069
+msgid "Sheet Plastic"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:11190
+msgid "Toolbox"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31036
+#: build/index.js:11196
+#: build/index.js:16309
+msgid "Trowel Bricks"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31036
+#: build/index.js:11202
+#: build/index.js:16315
+msgid "Trowel"
+msgstr ""
+
+#: build/index.js:31000
+#: build/index.js:31040
+#: build/index.js:11214
+#: build/index.js:17863
+msgid "Wrench"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11282
+msgid "Bezier Curve"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31016
+#: build/index.js:31062
+#: build/index.js:11306
+#: build/index.js:13271
+#: build/index.js:20487
+msgid "Clone"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31016
+#: build/index.js:11318
+#: build/index.js:13277
+msgid "Copy"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11324
+#: build/index.js:12291
+msgid "Crop"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11330
+#: build/index.js:12297
+msgid "Crop Simple"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31040
+#: build/index.js:31082
+#: build/index.js:11336
+#: build/index.js:17179
+#: build/index.js:22814
+msgid "Crosshairs"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31040
+#: build/index.js:11354
+#: build/index.js:17197
+msgid "Draw Polygon"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:31062
+#: build/index.js:11360
+#: build/index.js:15493
+#: build/index.js:17203
+#: build/index.js:18771
+#: build/index.js:20493
+msgid "Droplet"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31050
+#: build/index.js:11366
+#: build/index.js:18777
+msgid "Droplet Slash"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31100
+#: build/index.js:11372
+#: build/index.js:25613
+msgid "Eraser"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:31050
+#: build/index.js:31062
+#: build/index.js:31070
+#: build/index.js:11378
+#: build/index.js:12327
+#: build/index.js:18783
+#: build/index.js:20499
+#: build/index.js:21192
+msgid "Eye Dropper"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:31040
+#: build/index.js:31062
+#: build/index.js:31074
+#: build/index.js:11390
+#: build/index.js:12333
+#: build/index.js:17221
+#: build/index.js:20511
+#: build/index.js:21582
+msgid "Eye Slash"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11396
+msgid "Fill Drip"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11402
+msgid "Fill"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31004
+#: build/index.js:31016
+#: build/index.js:11408
+#: build/index.js:11735
+#: build/index.js:13427
+msgid "Floppy Disk"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11420
+msgid "Highlighter"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31040
+#: build/index.js:11432
+#: build/index.js:17377
+msgid "Layer Group"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31076
+#: build/index.js:11438
+#: build/index.js:22004
+msgid "Lines Leaning"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11444
+msgid "Marker"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11450
+msgid "Object Group"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11456
+msgid "Object Ungroup"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11462
+#: build/index.js:12387
+msgid "Paintbrush"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31082
+#: build/index.js:11474
+#: build/index.js:22850
+msgid "Palette"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31016
+#: build/index.js:11480
+#: build/index.js:13457
+msgid "Paste"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:31100
+#: build/index.js:11492
+#: build/index.js:12399
+#: build/index.js:25691
+msgid "Pen Clip"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11498
+#: build/index.js:12405
+msgid "Pen Fancy"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:31100
+#: build/index.js:11504
+#: build/index.js:12411
+#: build/index.js:25697
+msgid "Pen"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11510
+#: build/index.js:12417
+msgid "Pen Nib"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:31100
+#: build/index.js:11522
+#: build/index.js:12429
+#: build/index.js:25703
+msgid "Pen To Square"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:31016
+#: build/index.js:11546
+#: build/index.js:12447
+#: build/index.js:13469
+msgid "Scissors"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11552
+msgid "Splotch"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11558
+msgid "Spray Can"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31052
+#: build/index.js:11564
+#: build/index.js:19794
+msgid "Stamp"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11570
+msgid "Stapler"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11576
+msgid "Swatchbook"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:11582
+msgid "Vector Square"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11588
+#: build/index.js:12501
+msgid "Wand Magic"
+msgstr ""
+
+#: build/index.js:31002
+#: build/index.js:31008
+#: build/index.js:11594
+#: build/index.js:12507
+msgid "Wand Magic Sparkles"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31062
+#: build/index.js:31078
+#: build/index.js:31080
+#: build/index.js:11663
+#: build/index.js:20457
+#: build/index.js:22187
+#: build/index.js:22538
+msgid "Camera"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31062
+#: build/index.js:31078
+#: build/index.js:11669
+#: build/index.js:20463
+#: build/index.js:22193
+msgid "Camera Retro"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31018
+#: build/index.js:31056
+#: build/index.js:31082
+#: build/index.js:11681
+#: build/index.js:13530
+#: build/index.js:19993
+#: build/index.js:22802
+msgid "Compact Disc"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31034
+#: build/index.js:11687
+#: build/index.js:15030
+msgid "Computer"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11693
+msgid "Computer Mouse"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11699
+msgid "Database"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11705
+msgid "Desktop"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11711
+msgid "Display"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11747
+msgid "Hard Drive"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31018
+#: build/index.js:31056
+#: build/index.js:11753
+#: build/index.js:13554
+#: build/index.js:20023
+msgid "Headphones"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31034
+#: build/index.js:11759
+#: build/index.js:15102
+msgid "House Laptop"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31010
+#: build/index.js:11771
+#: build/index.js:12617
+msgid "Laptop File"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31036
+#: build/index.js:11777
+#: build/index.js:15559
+msgid "Laptop"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11783
+msgid "Memory"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31014
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:11825
+#: build/index.js:13162
+#: build/index.js:15174
+#: build/index.js:15913
+#: build/index.js:17575
+msgid "Plug"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31014
+#: build/index.js:11831
+#: build/index.js:13174
+msgid "Power Off"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31040
+#: build/index.js:11837
+#: build/index.js:17587
+msgid "Print"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11855
+msgid "Sd Card"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11861
+msgid "Server"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11867
+msgid "Sim Card"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11873
+msgid "Tablet Button"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11879
+msgid "Tablet"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11885
+msgid "Tablet Screen Button"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:11891
+msgid "Tachograph Digital"
+msgstr ""
+
+#: build/index.js:31004
+#: build/index.js:31018
+#: build/index.js:31034
+#: build/index.js:11897
+#: build/index.js:13620
+#: build/index.js:15264
+msgid "Tv"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:11960
+#: build/index.js:18675
+#: build/index.js:21150
+msgid "Biohazard"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31074
+#: build/index.js:31076
+#: build/index.js:11972
+#: build/index.js:21540
+#: build/index.js:21914
+msgid "Burst"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:11978
+msgid "Child Combatant"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31098
+#: build/index.js:11990
+#: build/index.js:25325
+msgid "Cloud Bolt"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31098
+#: build/index.js:11996
+#: build/index.js:25361
+msgid "Cloud Showers Heavy"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31098
+#: build/index.js:12002
+#: build/index.js:25367
+msgid "Cloud Showers Water"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:12008
+msgid "Helmet Un"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:12014
+msgid "Hill Avalanche"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:12020
+msgid "Hill Rockslide"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:12044
+msgid "House Flood Water Circle Arrow Right"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:12050
+msgid "House Flood Water"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31098
+#: build/index.js:12056
+#: build/index.js:25385
+msgid "House Tsunami"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31082
+#: build/index.js:31098
+#: build/index.js:12062
+#: build/index.js:22838
+#: build/index.js:25391
+msgid "Hurricane"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:12080
+#: build/index.js:15715
+#: build/index.js:24872
+msgid "Person Drowning"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:12086
+#: build/index.js:15781
+#: build/index.js:21768
+#: build/index.js:24950
+msgid "Person Rifle"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:12092
+#: build/index.js:15799
+#: build/index.js:25004
+msgid "Person Walking Arrow Loop Left"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:12098
+#: build/index.js:15805
+#: build/index.js:25010
+msgid "Person Walking Arrow Right"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:12104
+#: build/index.js:15811
+#: build/index.js:25016
+msgid "Person Walking Dashed Line Arrow Right"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31058
+#: build/index.js:12110
+#: build/index.js:15865
+#: build/index.js:20281
+msgid "Plant Wilt"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:31082
+#: build/index.js:31098
+#: build/index.js:12122
+#: build/index.js:15210
+#: build/index.js:16129
+#: build/index.js:22886
+#: build/index.js:25433
+msgid "Snowflake"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31098
+#: build/index.js:12128
+#: build/index.js:16177
+#: build/index.js:25445
+msgid "Sun Plant Wilt"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:31098
+#: build/index.js:12134
+#: build/index.js:15234
+#: build/index.js:16201
+#: build/index.js:25451
+msgid "Temperature Arrow Down"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:31098
+#: build/index.js:12140
+#: build/index.js:15240
+#: build/index.js:16207
+#: build/index.js:25457
+msgid "Temperature Arrow Up"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31098
+#: build/index.js:12146
+#: build/index.js:16267
+#: build/index.js:25505
+msgid "Tornado"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31058
+#: build/index.js:31098
+#: build/index.js:12152
+#: build/index.js:16441
+#: build/index.js:20311
+#: build/index.js:25517
+msgid "Volcano"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31020
+#: build/index.js:31036
+#: build/index.js:12158
+#: build/index.js:13952
+#: build/index.js:16453
+msgid "Wheat Awn Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:31058
+#: build/index.js:31098
+#: build/index.js:12164
+#: build/index.js:13216
+#: build/index.js:16477
+#: build/index.js:20323
+#: build/index.js:25529
+msgid "Wind"
+msgstr ""
+
+#: build/index.js:31006
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:12176
+#: build/index.js:16489
+#: build/index.js:16889
+msgid "Xmarks Lines"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31082
+#: build/index.js:12237
+#: build/index.js:22760
+msgid "Arrows Rotate"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31050
+#: build/index.js:12243
+#: build/index.js:18657
+msgid "Bandage"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31064
+#: build/index.js:31066
+#: build/index.js:12267
+#: build/index.js:20635
+#: build/index.js:20775
+msgid "Check Double"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31052
+#: build/index.js:31066
+#: build/index.js:12273
+#: build/index.js:19698
+#: build/index.js:20781
+msgid "Check"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31090
+#: build/index.js:12279
+#: build/index.js:23613
+msgid "Circle Check"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12309
+msgid "Delete Left"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12315
+msgid "Ellipsis"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12321
+msgid "Ellipsis Vertical"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12345
+msgid "Grip"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12351
+msgid "Grip Lines"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12357
+msgid "Grip Lines Vertical"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12363
+msgid "Grip Vertical"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12369
+msgid "Link"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12375
+msgid "Link Slash"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31046
+#: build/index.js:31066
+#: build/index.js:12381
+#: build/index.js:18178
+#: build/index.js:20829
+msgid "Minus"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31040
+#: build/index.js:31046
+#: build/index.js:31050
+#: build/index.js:31066
+#: build/index.js:12435
+#: build/index.js:17581
+#: build/index.js:18196
+#: build/index.js:19071
+#: build/index.js:20841
+msgid "Plus"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31100
+#: build/index.js:12453
+#: build/index.js:25721
+msgid "Signature"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31056
+#: build/index.js:31062
+#: build/index.js:12459
+#: build/index.js:20083
+#: build/index.js:20577
+msgid "Sliders"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12465
+msgid "Square Check"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31100
+#: build/index.js:12471
+#: build/index.js:25727
+msgid "Square Pen"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12477
+msgid "Trash Arrow Up"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12483
+msgid "Trash Can Arrow Up"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31036
+#: build/index.js:12489
+#: build/index.js:16297
+msgid "Trash Can"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:12495
+msgid "Trash"
+msgstr ""
+
+#: build/index.js:31008
+#: build/index.js:31046
+#: build/index.js:12513
+#: build/index.js:18244
+msgid "Xmark"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:31014
+#: build/index.js:31068
+#: build/index.js:31070
+#: build/index.js:31082
+#: build/index.js:12557
+#: build/index.js:13006
+#: build/index.js:20917
+#: build/index.js:21144
+#: build/index.js:22778
+msgid "Atom"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:31064
+#: build/index.js:12563
+#: build/index.js:20617
+msgid "Award"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:12581
+msgid "Book Open"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:12587
+msgid "Book Open Reader"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:31062
+#: build/index.js:12593
+#: build/index.js:20475
+msgid "Chalkboard"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:31096
+#: build/index.js:12599
+#: build/index.js:24578
+msgid "Chalkboard User"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:12623
+msgid "Masks Theater"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:12629
+#: build/index.js:19017
+#: build/index.js:21246
+msgid "Microscope"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:31040
+#: build/index.js:31056
+#: build/index.js:12635
+#: build/index.js:17521
+#: build/index.js:20059
+msgid "Music"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:12641
+#: build/index.js:15655
+#: build/index.js:24806
+msgid "Person Chalkboard"
+msgstr ""
+
+#: build/index.js:31010
+#: build/index.js:31096
+#: build/index.js:12689
+#: build/index.js:25100
+msgid "User Graduate"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12739
+msgid "Face Angry"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12745
+msgid "Face Dizzy"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12751
+msgid "Face Flushed"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12763
+msgid "Face Frown Open"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12769
+msgid "Face Grimace"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12775
+msgid "Face Grin Beam"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12781
+msgid "Face Grin Beam Sweat"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:31032
+#: build/index.js:12787
+#: build/index.js:14872
+msgid "Face Grin Hearts"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12793
+msgid "Face Grin"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12799
+msgid "Face Grin Squint"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12805
+msgid "Face Grin Squint Tears"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12811
+msgid "Face Grin Stars"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12817
+msgid "Face Grin Tears"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12823
+msgid "Face Grin Tongue"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12829
+msgid "Face Grin Tongue Squint"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12835
+msgid "Face Grin Tongue Wink"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12841
+msgid "Face Grin Wide"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12847
+msgid "Face Grin Wink"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12853
+msgid "Face Kiss Beam"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12859
+msgid "Face Kiss"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:31032
+#: build/index.js:12865
+#: build/index.js:14878
+msgid "Face Kiss Wink Heart"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12871
+msgid "Face Laugh Beam"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12877
+msgid "Face Laugh"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12883
+msgid "Face Laugh Squint"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12889
+msgid "Face Laugh Wink"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12895
+msgid "Face Meh Blank"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12907
+msgid "Face Rolling Eyes"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12913
+msgid "Face Sad Cry"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12919
+msgid "Face Sad Tear"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12925
+msgid "Face Smile Beam"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12937
+msgid "Face Smile Wink"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12943
+msgid "Face Surprise"
+msgstr ""
+
+#: build/index.js:31012
+#: build/index.js:12949
+msgid "Face Tired"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:13012
+msgid "Battery Empty"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:13018
+msgid "Battery Full"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:13024
+msgid "Battery Half"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:13030
+msgid "Battery Quarter"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:13036
+msgid "Battery Three Quarters"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31062
+#: build/index.js:31098
+#: build/index.js:13042
+#: build/index.js:20445
+#: build/index.js:25313
+msgid "Bolt"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31074
+#: build/index.js:13066
+#: build/index.js:21570
+msgid "Explosion"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31034
+#: build/index.js:31082
+#: build/index.js:13072
+#: build/index.js:15060
+#: build/index.js:22826
+msgid "Fan"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:31084
+#: build/index.js:13084
+#: build/index.js:18813
+#: build/index.js:21210
+#: build/index.js:23005
+msgid "Fire Flame Simple"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31034
+#: build/index.js:31040
+#: build/index.js:13114
+#: build/index.js:15150
+#: build/index.js:17401
+msgid "Lightbulb"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:13126
+#: build/index.js:15877
+msgid "Plug Circle Bolt"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:13132
+#: build/index.js:15883
+msgid "Plug Circle Check"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:13138
+#: build/index.js:15889
+msgid "Plug Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:13144
+#: build/index.js:15895
+msgid "Plug Circle Minus"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:13150
+#: build/index.js:15901
+msgid "Plug Circle Plus"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31036
+#: build/index.js:13156
+#: build/index.js:15907
+msgid "Plug Circle Xmark"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31050
+#: build/index.js:13168
+#: build/index.js:19077
+msgid "Poop"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:13192
+msgid "Solar Panel"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31082
+#: build/index.js:31098
+#: build/index.js:13198
+#: build/index.js:22904
+#: build/index.js:25439
+msgid "Sun"
+msgstr ""
+
+#: build/index.js:31014
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:31058
+#: build/index.js:31098
+#: build/index.js:13210
+#: build/index.js:17969
+#: build/index.js:18075
+#: build/index.js:20317
+#: build/index.js:25523
+msgid "Water"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13283
+msgid "File Arrow Down"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13289
+msgid "File Arrow Up"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:31018
+#: build/index.js:31056
+#: build/index.js:13295
+#: build/index.js:13536
+#: build/index.js:20011
+msgid "File Audio"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13301
+msgid "File Circle Check"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13307
+msgid "File Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13313
+msgid "File Circle Minus"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13319
+msgid "File Circle Plus"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13325
+msgid "File Circle Question"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13331
+msgid "File Circle Xmark"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13343
+msgid "File Csv"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13349
+msgid "File Excel"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13355
+msgid "File Export"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:31062
+#: build/index.js:13361
+#: build/index.js:20517
+msgid "File Image"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13367
+msgid "File Import"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:31036
+#: build/index.js:13385
+#: build/index.js:15511
+msgid "File Pdf"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13391
+msgid "File Pen"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13397
+msgid "File Powerpoint"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:31074
+#: build/index.js:13403
+#: build/index.js:21594
+msgid "File Shield"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:31018
+#: build/index.js:13409
+#: build/index.js:13542
+msgid "File Video"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13415
+msgid "File Word"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13421
+msgid "File Zipper"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:13433
+msgid "Folder Closed"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:31100
+#: build/index.js:13451
+#: build/index.js:25661
+msgid "Note Sticky"
+msgstr ""
+
+#: build/index.js:31016
+#: build/index.js:31018
+#: build/index.js:31062
+#: build/index.js:31080
+#: build/index.js:13463
+#: build/index.js:13584
+#: build/index.js:20571
+#: build/index.js:22610
+msgid "Photo Film"
+msgstr ""
+
+#: build/index.js:31018
+#: build/index.js:31076
+#: build/index.js:31090
+#: build/index.js:13512
+#: build/index.js:21938
+#: build/index.js:23625
+msgid "Circle"
+msgstr ""
+
+#: build/index.js:31018
+#: build/index.js:13518
+msgid "Clapperboard"
+msgstr ""
+
+#: build/index.js:31018
+#: build/index.js:31062
+#: build/index.js:13548
+#: build/index.js:20523
+msgid "Film"
+msgstr ""
+
+#: build/index.js:31018
+#: build/index.js:13590
+msgid "Podcast"
+msgstr ""
+
+#: build/index.js:31018
+#: build/index.js:31040
+#: build/index.js:13602
+#: build/index.js:17749
+msgid "Ticket"
+msgstr ""
+
+#: build/index.js:31018
+#: build/index.js:13638
+msgid "Youtube"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13706
+msgid "Bacon"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31040
+#: build/index.js:13712
+#: build/index.js:17071
+msgid "Beer Mug Empty"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31034
+#: build/index.js:13718
+#: build/index.js:15012
+msgid "Blender"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31050
+#: build/index.js:13724
+#: build/index.js:18681
+msgid "Bone"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13730
+msgid "Bottle Droplet"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13742
+msgid "Bowl Food"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13748
+msgid "Bowl Rice"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13754
+msgid "Bread Slice"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13760
+msgid "Burger"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31032
+#: build/index.js:13772
+#: build/index.js:14848
+msgid "Candy Cane"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31022
+#: build/index.js:31032
+#: build/index.js:13778
+#: build/index.js:14008
+#: build/index.js:14854
+msgid "Carrot"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31032
+#: build/index.js:13784
+#: build/index.js:14860
+msgid "Champagne Glasses"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13790
+msgid "Cheese"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31098
+#: build/index.js:13796
+#: build/index.js:25337
+msgid "Cloud Meatball"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13814
+msgid "Drumstick Bite"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13820
+msgid "Egg"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:13838
+#: build/index.js:17257
+#: build/index.js:18819
+#: build/index.js:21222
+msgid "Flask"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13844
+msgid "Glass Water Droplet"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13850
+msgid "Glass Water"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13856
+msgid "Hotdog"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31034
+#: build/index.js:13868
+#: build/index.js:15126
+msgid "Jar"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31034
+#: build/index.js:13874
+#: build/index.js:15132
+msgid "Jar Wheat"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31022
+#: build/index.js:31040
+#: build/index.js:13880
+#: build/index.js:14020
+#: build/index.js:17389
+msgid "Lemon"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13886
+msgid "Martini Glass Citrus"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31040
+#: build/index.js:13892
+#: build/index.js:17479
+msgid "Martini Glass Empty"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13898
+msgid "Martini Glass"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31032
+#: build/index.js:13904
+#: build/index.js:14914
+msgid "Mug Hot"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31022
+#: build/index.js:13916
+#: build/index.js:14026
+msgid "Pepper Hot"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13922
+msgid "Pizza Slice"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31036
+#: build/index.js:13928
+#: build/index.js:15871
+msgid "Plate Wheat"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31082
+#: build/index.js:13946
+#: build/index.js:22898
+msgid "Stroopwafel"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31036
+#: build/index.js:13958
+#: build/index.js:16459
+msgid "Wheat Awn"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13964
+msgid "Whiskey Glass"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13970
+msgid "Wine Bottle"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:13976
+msgid "Wine Glass Empty"
+msgstr ""
+
+#: build/index.js:31020
+#: build/index.js:31040
+#: build/index.js:31054
+#: build/index.js:13982
+#: build/index.js:17857
+#: build/index.js:19956
+msgid "Wine Glass"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:31028
+#: build/index.js:14092
+#: build/index.js:14495
+msgid "Book Skull"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14098
+msgid "Chess Bishop"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14104
+msgid "Chess Board"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14110
+msgid "Chess"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14116
+msgid "Chess King"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14122
+msgid "Chess Knight"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14128
+msgid "Chess Pawn"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14134
+msgid "Chess Queen"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14140
+msgid "Chess Rook"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14146
+msgid "Critical Role"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14152
+msgid "DAnd DBeyond"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14158
+msgid "DAnd D"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:31076
+#: build/index.js:14164
+#: build/index.js:21974
+msgid "Diamond"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14170
+msgid "Dice D20"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14176
+msgid "Dice D6"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14182
+msgid "Dice Five"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14188
+msgid "Dice Four"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14194
+msgid "Dice"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14200
+msgid "Dice One"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14206
+msgid "Dice Six"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14212
+msgid "Dice Three"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14218
+msgid "Dice Two"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14236
+msgid "Fantasy Flight Games"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:31028
+#: build/index.js:14248
+#: build/index.js:14525
+msgid "Ghost"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:31030
+#: build/index.js:31064
+#: build/index.js:14254
+#: build/index.js:14628
+#: build/index.js:20677
+msgid "Hand Fist"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:31036
+#: build/index.js:14266
+#: build/index.js:15535
+msgid "Headset"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14278
+msgid "Playstation"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:31082
+#: build/index.js:14290
+#: build/index.js:22856
+msgid "Ring"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14296
+msgid "Scroll"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14314
+msgid "Square Full"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14320
+msgid "Square Steam"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14326
+msgid "Steam"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14332
+msgid "Steam Symbol"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14338
+msgid "Twitch"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14344
+msgid "Vr Cardboard"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:31028
+#: build/index.js:14350
+#: build/index.js:14567
+msgid "Wand Sparkles"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14356
+msgid "Wizards Of The Coast"
+msgstr ""
+
+#: build/index.js:31024
+#: build/index.js:14362
+msgid "Xbox"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14390
+msgid "Genderless"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14396
+msgid "Mars And Venus"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14402
+msgid "Mars Double"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14408
+msgid "Mars"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14414
+msgid "Mars Stroke"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14420
+msgid "Mars Stroke Right"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14426
+msgid "Mars Stroke Up"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14432
+msgid "Mercury"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14438
+msgid "Neuter"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:14444
+#: build/index.js:15733
+#: build/index.js:19059
+#: build/index.js:24890
+msgid "Person Half Dress"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14450
+msgid "Transgender"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14456
+msgid "Venus Double"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14462
+msgid "Venus"
+msgstr ""
+
+#: build/index.js:31026
+#: build/index.js:14468
+msgid "Venus Mars"
+msgstr ""
+
+#: build/index.js:31028
+#: build/index.js:14501
+msgid "Broom"
+msgstr ""
+
+#: build/index.js:31028
+#: build/index.js:31098
+#: build/index.js:14513
+#: build/index.js:25343
+msgid "Cloud Moon"
+msgstr ""
+
+#: build/index.js:31028
+#: build/index.js:31074
+#: build/index.js:14537
+#: build/index.js:21702
+msgid "Mask"
+msgstr ""
+
+#: build/index.js:31028
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:14549
+#: build/index.js:19131
+#: build/index.js:25052
+msgid "Skull"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14616
+msgid "Hand Back Fist"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:31050
+#: build/index.js:14622
+#: build/index.js:18831
+msgid "Hand Dots"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14658
+msgid "Hand Holding"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:31050
+#: build/index.js:14664
+#: build/index.js:18843
+msgid "Hand Holding Medical"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14670
+msgid "Hand"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14676
+msgid "Hand Lizard"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14682
+msgid "Hand Middle Finger"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14688
+msgid "Hand Peace"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14694
+msgid "Hand Point Down"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14700
+msgid "Hand Pointer"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14706
+msgid "Hand Point Left"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14712
+msgid "Hand Point Right"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14718
+msgid "Hand Point Up"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14724
+msgid "Bound"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14730
+msgid "Bubbles"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14736
+msgid "Hand Scissors"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14742
+msgid "Clapping"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14748
+msgid "hake Angle"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14754
+msgid "hake"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14760
+msgid "hake Simple"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14766
+msgid "hake Simple Slash"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14772
+msgid "hake Slash"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14778
+msgid "Holding Child"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14784
+msgid "Holding Circle"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14790
+msgid "Holding"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14796
+msgid "Hand Sparkles"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14802
+msgid "Hand Spock"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:14808
+msgid "Praying"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:31078
+#: build/index.js:31080
+#: build/index.js:14814
+#: build/index.js:22457
+#: build/index.js:22664
+msgid "Thumbs Down"
+msgstr ""
+
+#: build/index.js:31030
+#: build/index.js:31078
+#: build/index.js:31080
+#: build/index.js:14820
+#: build/index.js:22463
+#: build/index.js:22670
+msgid "Thumbs Up"
+msgstr ""
+
+#: build/index.js:31032
+#: build/index.js:31078
+#: build/index.js:14890
+#: build/index.js:22313
+msgid "Gifts"
+msgstr ""
+
+#: build/index.js:31032
+#: build/index.js:14902
+msgid "Holly Berry"
+msgstr ""
+
+#: build/index.js:31032
+#: build/index.js:31068
+#: build/index.js:14908
+#: build/index.js:21019
+msgid "Menorah"
+msgstr ""
+
+#: build/index.js:31032
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:14920
+#: build/index.js:23935
+#: build/index.js:24293
+msgid "Sleigh"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:14988
+msgid "Arrow Up From Water Pump"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31040
+#: build/index.js:31096
+#: build/index.js:15000
+#: build/index.js:17065
+#: build/index.js:24572
+msgid "Bed"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:15018
+msgid "Box Tissue"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:15024
+msgid "Chair"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31054
+#: build/index.js:15036
+#: build/index.js:19890
+msgid "Couch"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31074
+#: build/index.js:15042
+#: build/index.js:21552
+msgid "Door Closed"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31074
+#: build/index.js:15048
+#: build/index.js:21558
+msgid "Door Open"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31096
+#: build/index.js:15084
+#: build/index.js:24680
+msgid "House Chimney User"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31096
+#: build/index.js:15120
+#: build/index.js:24686
+msgid "House User"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:15138
+msgid "Jug Detergent"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:15144
+msgid "Kitchen Set"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:15180
+#: build/index.js:15919
+msgid "Pump Soap"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:15186
+#: build/index.js:15991
+msgid "Rug"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:15198
+#: build/index.js:16117
+#: build/index.js:17653
+msgid "Shower"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:15204
+msgid "Sink"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:15216
+#: build/index.js:16135
+msgid "Soap"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31040
+#: build/index.js:15222
+#: build/index.js:17671
+msgid "Spoon"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:15228
+msgid "Stairs"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31036
+#: build/index.js:15246
+#: build/index.js:16249
+msgid "Toilet"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:15258
+msgid "Toilet Paper Slash"
+msgstr ""
+
+#: build/index.js:31034
+#: build/index.js:31040
+#: build/index.js:15270
+#: build/index.js:17821
+msgid "Utensils"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:15457
+#: build/index.js:16577
+#: build/index.js:17041
+#: build/index.js:17909
+#: build/index.js:18015
+msgid "Anchor"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:15517
+#: build/index.js:17251
+msgid "Flag"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15589
+#: build/index.js:24722
+msgid "People Arrows"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15595
+#: build/index.js:24734
+msgid "People Group"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15601
+#: build/index.js:24740
+msgid "People Line"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15607
+#: build/index.js:21714
+#: build/index.js:24746
+msgid "People Pulling"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15613
+#: build/index.js:21720
+#: build/index.js:24752
+msgid "People Robbery"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15625
+#: build/index.js:24764
+msgid "Person Arrow Down To Line"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15631
+#: build/index.js:24770
+msgid "Person Arrow Up From Line"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15643
+#: build/index.js:21726
+#: build/index.js:24794
+msgid "Person Burst"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15661
+#: build/index.js:24812
+msgid "Person Circle Check"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15667
+#: build/index.js:24818
+msgid "Person Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15673
+#: build/index.js:24824
+msgid "Person Circle Minus"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15679
+#: build/index.js:24830
+msgid "Person Circle Plus"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15685
+#: build/index.js:24836
+msgid "Person Circle Question"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15691
+#: build/index.js:24842
+msgid "Person Circle Xmark"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15703
+#: build/index.js:21732
+#: build/index.js:24860
+msgid "Person Dress Burst"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15709
+#: build/index.js:24866
+msgid "Person Dress"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15721
+#: build/index.js:21738
+#: build/index.js:24878
+msgid "Person Falling Burst"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15727
+#: build/index.js:24884
+msgid "Person Falling"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15739
+#: build/index.js:21744
+#: build/index.js:24896
+msgid "Person Harassing"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31096
+#: build/index.js:15745
+#: build/index.js:17539
+#: build/index.js:24908
+msgid "Person"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15751
+#: build/index.js:21750
+#: build/index.js:24914
+msgid "Person Military Pointing"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15757
+#: build/index.js:21756
+#: build/index.js:24920
+msgid "Person Military Rifle"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15763
+#: build/index.js:21762
+#: build/index.js:24926
+msgid "Person Military To Person"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15769
+#: build/index.js:24938
+msgid "Person Pregnant"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15775
+#: build/index.js:24944
+msgid "Person Rays"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:15793
+#: build/index.js:21780
+#: build/index.js:24998
+msgid "Person Through Window"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:15817
+#: build/index.js:23107
+#: build/index.js:25022
+msgid "Person Walking"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:15823
+#: build/index.js:25028
+msgid "Person Walking Luggage"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:15829
+#: build/index.js:19065
+#: build/index.js:21258
+msgid "Pills"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15835
+#: build/index.js:16751
+msgid "Plane Circle Check"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15841
+#: build/index.js:16757
+msgid "Plane Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15847
+#: build/index.js:16763
+msgid "Plane Circle Xmark"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15853
+#: build/index.js:16769
+msgid "Plane Lock"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31090
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:15859
+#: build/index.js:23649
+#: build/index.js:23887
+#: build/index.js:24245
+msgid "Plane Up"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31056
+#: build/index.js:15931
+#: build/index.js:20071
+msgid "Radio"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31084
+#: build/index.js:15937
+#: build/index.js:23113
+msgid "Ranking Star"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:15943
+#: build/index.js:16775
+#: build/index.js:23893
+#: build/index.js:24251
+msgid "Road Barrier"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15949
+#: build/index.js:16781
+msgid "Road Bridge"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15955
+#: build/index.js:16787
+msgid "Road Circle Check"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15961
+#: build/index.js:16793
+msgid "Road Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15967
+#: build/index.js:16799
+msgid "Road Circle Xmark"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:15973
+#: build/index.js:16805
+#: build/index.js:17605
+#: build/index.js:23899
+#: build/index.js:24257
+msgid "Road"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:15979
+#: build/index.js:16811
+msgid "Road Lock"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:15985
+#: build/index.js:21786
+#: build/index.js:23905
+#: build/index.js:24263
+msgid "Road Spikes"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31052
+#: build/index.js:15997
+#: build/index.js:19758
+msgid "Sack Dollar"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31052
+#: build/index.js:16003
+#: build/index.js:19764
+msgid "Sack Xmark"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16009
+#: build/index.js:16817
+#: build/index.js:17951
+#: build/index.js:18057
+#: build/index.js:23917
+#: build/index.js:24275
+msgid "Sailboat"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31052
+#: build/index.js:31064
+#: build/index.js:16021
+#: build/index.js:17623
+#: build/index.js:19770
+#: build/index.js:20719
+msgid "Scale Balanced"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:16087
+#: build/index.js:21810
+msgid "Shield Heart"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16093
+#: build/index.js:17641
+#: build/index.js:17957
+#: build/index.js:18063
+#: build/index.js:23923
+#: build/index.js:24281
+msgid "Ship"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:16141
+#: build/index.js:16823
+msgid "Square Nfi"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:16147
+#: build/index.js:21828
+#: build/index.js:25058
+msgid "Square Person Confined"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:16153
+#: build/index.js:19155
+#: build/index.js:21288
+msgid "Square Virus"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:16159
+#: build/index.js:19161
+msgid "Staff Snake"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:16165
+#: build/index.js:19173
+msgid "Stethoscope"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:16171
+#: build/index.js:17719
+#: build/index.js:19179
+msgid "Suitcase Medical"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:16183
+#: build/index.js:19185
+#: build/index.js:21294
+msgid "Syringe"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16291
+#: build/index.js:16835
+#: build/index.js:17773
+#: build/index.js:23965
+#: build/index.js:24323
+msgid "Train Subway"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16321
+#: build/index.js:16841
+#: build/index.js:23977
+#: build/index.js:24335
+msgid "Truck Arrow Right"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16327
+#: build/index.js:19221
+#: build/index.js:23983
+#: build/index.js:24341
+msgid "Truck Droplet"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16345
+#: build/index.js:16865
+#: build/index.js:24001
+#: build/index.js:24359
+msgid "Truck Front"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16363
+#: build/index.js:16877
+#: build/index.js:24031
+#: build/index.js:24389
+msgid "Truck Plane"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:16369
+#: build/index.js:19233
+#: build/index.js:25088
+msgid "User Doctor"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:16375
+#: build/index.js:25112
+msgid "User Injured"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:16381
+#: build/index.js:25172
+msgid "Users Between Lines"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:16387
+#: build/index.js:25208
+msgid "Users Line"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:16393
+#: build/index.js:25214
+msgid "Users Rays"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:16399
+#: build/index.js:25220
+msgid "Users Rectangle"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31096
+#: build/index.js:16405
+#: build/index.js:25232
+msgid "Users Viewfinder"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:16411
+#: build/index.js:19245
+#: build/index.js:21318
+msgid "Vial Circle Check"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:16417
+#: build/index.js:19263
+#: build/index.js:21336
+msgid "Vial Virus"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:16429
+#: build/index.js:19269
+msgid "Virus Covid"
+msgstr ""
+
+#: build/index.js:31036
+#: build/index.js:31050
+#: build/index.js:16435
+#: build/index.js:19287
+msgid "Virus"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:16559
+#: build/index.js:17891
+#: build/index.js:17997
+msgid "Anchor Circle Check"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:16565
+#: build/index.js:17897
+#: build/index.js:18003
+msgid "Anchor Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:16571
+#: build/index.js:17903
+#: build/index.js:18009
+msgid "Anchor Circle Xmark"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:16583
+#: build/index.js:17915
+#: build/index.js:18021
+msgid "Anchor Lock"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31054
+#: build/index.js:16589
+#: build/index.js:19872
+msgid "Boxes Packing"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16595
+msgid "Boxes Stacked"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16601
+msgid "Box"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16607
+msgid "Bridge Circle Check"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16613
+msgid "Bridge Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16619
+msgid "Bridge Circle Xmark"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:16625
+#: build/index.js:17125
+msgid "Bridge"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16631
+msgid "Bridge Lock"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:16637
+#: build/index.js:17131
+msgid "Bridge Water"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16661
+msgid "Cart Flatbed"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31070
+#: build/index.js:16679
+#: build/index.js:21174
+msgid "Clipboard Check"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16685
+msgid "Clipboard List"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16691
+msgid "Clipboard Question"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31054
+#: build/index.js:16697
+#: build/index.js:19896
+msgid "Dolly"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16703
+#: build/index.js:17921
+#: build/index.js:18027
+#: build/index.js:23827
+#: build/index.js:24185
+msgid "Ferry"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16721
+#: build/index.js:17305
+#: build/index.js:23833
+#: build/index.js:24191
+msgid "Helicopter"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:16727
+#: build/index.js:17311
+msgid "Helicopter Symbol"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16739
+#: build/index.js:23851
+#: build/index.js:24209
+msgid "Jet Fighter Up"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:16745
+msgid "Pallet"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:16829
+#: build/index.js:17767
+#: build/index.js:23959
+#: build/index.js:24317
+msgid "Train"
+msgstr ""
+
+#: build/index.js:31038
+#: build/index.js:31078
+#: build/index.js:16847
+#: build/index.js:22475
+msgid "Truck Fast"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17047
+msgid "Bag Shopping"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17053
+msgid "Basket Shopping"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31084
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:17089
+#: build/index.js:22975
+#: build/index.js:23767
+#: build/index.js:24125
+msgid "Bicycle"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17101
+msgid "Bomb"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17107
+msgid "Book Atlas"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31100
+#: build/index.js:17113
+#: build/index.js:25583
+msgid "Book"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31076
+#: build/index.js:31078
+#: build/index.js:31100
+#: build/index.js:17119
+#: build/index.js:21908
+#: build/index.js:22169
+#: build/index.js:25589
+msgid "Bookmark"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17137
+msgid "Briefcase"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:17167
+#: build/index.js:23815
+#: build/index.js:24173
+msgid "Cart Shopping"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17185
+msgid "Diamond Turn Right"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17245
+msgid "Flag Checkered"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17269
+msgid "Gavel"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:31084
+#: build/index.js:17299
+#: build/index.js:18915
+#: build/index.js:23035
+msgid "Heart Pulse"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31062
+#: build/index.js:31080
+#: build/index.js:17329
+#: build/index.js:20541
+#: build/index.js:22580
+msgid "Image"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31062
+#: build/index.js:31080
+#: build/index.js:17335
+#: build/index.js:20553
+#: build/index.js:22586
+msgid "Images"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17347
+msgid "Info"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:17353
+#: build/index.js:23845
+#: build/index.js:24203
+msgid "Jet Fighter"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31074
+#: build/index.js:31078
+#: build/index.js:17359
+#: build/index.js:21672
+#: build/index.js:22343
+msgid "Key"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31082
+#: build/index.js:17395
+#: build/index.js:22844
+msgid "Life Ring"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31090
+#: build/index.js:17413
+#: build/index.js:23631
+msgid "Location Crosshairs"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31080
+#: build/index.js:17419
+#: build/index.js:22592
+msgid "Location Dot"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31076
+#: build/index.js:31080
+#: build/index.js:17425
+#: build/index.js:22010
+#: build/index.js:22598
+msgid "Location Pin"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17431
+msgid "Location Pin Lock"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31070
+#: build/index.js:17437
+#: build/index.js:21240
+msgid "Magnet"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17443
+msgid "Magnifying Glass"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17449
+msgid "Magnifying Glass Location"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17455
+msgid "Magnifying Glass Minus"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17461
+msgid "Magnifying Glass Plus"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17473
+msgid "Map Pin"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17485
+msgid "Money Bill1"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17491
+msgid "Money Bill"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31100
+#: build/index.js:17527
+#: build/index.js:25649
+msgid "Newspaper"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:17569
+#: build/index.js:23875
+#: build/index.js:24233
+msgid "Plane"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31096
+#: build/index.js:17599
+#: build/index.js:25046
+msgid "Restroom"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:17611
+#: build/index.js:23911
+#: build/index.js:24269
+msgid "Rocket"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31052
+#: build/index.js:31064
+#: build/index.js:17629
+#: build/index.js:19776
+#: build/index.js:20725
+msgid "Scale Unbalanced Flip"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31052
+#: build/index.js:31064
+#: build/index.js:17635
+#: build/index.js:19782
+#: build/index.js:20731
+msgid "Scale Unbalanced"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:17665
+#: build/index.js:23941
+#: build/index.js:24299
+msgid "Snowplow"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17683
+msgid "Square Parking"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31050
+#: build/index.js:17701
+#: build/index.js:19149
+msgid "Square Plus"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31096
+#: build/index.js:17707
+#: build/index.js:25064
+msgid "Street View"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31054
+#: build/index.js:17713
+#: build/index.js:19926
+msgid "Suitcase"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31078
+#: build/index.js:17725
+#: build/index.js:22445
+msgid "Tag"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31078
+#: build/index.js:17731
+#: build/index.js:22451
+msgid "Tags"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31080
+#: build/index.js:31100
+#: build/index.js:17743
+#: build/index.js:22676
+#: build/index.js:25733
+msgid "Thumbtack"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31076
+#: build/index.js:17755
+#: build/index.js:22046
+msgid "Ticket Simple"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:17761
+msgid "Traffic Light"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:17779
+#: build/index.js:23971
+#: build/index.js:24329
+msgid "Train Tram"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31078
+#: build/index.js:17791
+#: build/index.js:22469
+msgid "Trophy"
+msgstr ""
+
+#: build/index.js:31040
+#: build/index.js:31098
+#: build/index.js:17815
+#: build/index.js:25511
+msgid "Umbrella"
+msgstr ""
+
+#: build/index.js:31042
+#: build/index.js:31044
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:17945
+#: build/index.js:18051
+#: build/index.js:23101
+#: build/index.js:24992
+msgid "Person Swimming"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18112
+msgid "Calculator"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18118
+msgid "Circle Minus"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18124
+msgid "Circle Plus"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18130
+msgid "Circle Xmark"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18136
+msgid "Divide"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:31066
+#: build/index.js:18142
+#: build/index.js:20799
+msgid "Equals"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18148
+msgid "Greater Than Equal"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:31066
+#: build/index.js:18154
+#: build/index.js:20811
+msgid "Greater Than"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18160
+msgid "Infinity"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18166
+msgid "Less Than Equal"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:31066
+#: build/index.js:18172
+#: build/index.js:20823
+msgid "Less Than"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18184
+msgid "Not Equal"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:31052
+#: build/index.js:31066
+#: build/index.js:18190
+#: build/index.js:19710
+#: build/index.js:20835
+msgid "Percent"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18202
+msgid "Plus Minus"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18208
+msgid "Square Minus"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18214
+msgid "Square Root Variable"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18220
+msgid "Square Xmark"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18226
+msgid "Subscript"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:18232
+msgid "Superscript"
+msgstr ""
+
+#: build/index.js:31046
+#: build/index.js:31056
+#: build/index.js:18238
+#: build/index.js:20125
+msgid "Wave Square"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18295
+msgid "Mediaplayback Arrow Rotate Left"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18301
+msgid "Mediaplayback Arrow Rotate Right"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18307
+msgid "Mediaplayback Arrows Rotate"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18313
+msgid "Mediaplayback Backward Fast"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18319
+msgid "Mediaplayback Backward"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18325
+msgid "Mediaplayback Backward Step"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18331
+msgid "Mediaplayback Circle Pause"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18337
+msgid "Mediaplayback Circle Play"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18343
+msgid "Mediaplayback Circle Stop"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18349
+msgid "Mediaplayback Compress"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18355
+msgid "Mediaplayback Down Left And Up Right To Center"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18361
+msgid "Mediaplayback Eject"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18367
+msgid "Mediaplayback Expand"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18373
+msgid "Mediaplayback Forward Fast"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18379
+msgid "Mediaplayback Forward"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18385
+msgid "Mediaplayback Forward Step"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18391
+msgid "Mediaplayback Hand"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18397
+msgid "Mediaplayback Maximize"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18403
+msgid "Mediaplayback Minimize"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18409
+msgid "Mediaplayback Music"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18415
+msgid "Mediaplayback Pause"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18421
+msgid "Mediaplayback Phone Volume"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18427
+msgid "Mediaplayback Play"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18433
+msgid "Mediaplayback Plus Minus"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18439
+msgid "Mediaplayback Repeat"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18445
+msgid "Mediaplayback Rotate"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18451
+msgid "Mediaplayback Rotate Left"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18457
+msgid "Mediaplayback Rotate Right"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18463
+msgid "Mediaplayback Rss"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18469
+msgid "Mediaplayback Shuffle"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18475
+msgid "Mediaplayback Sliders"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18481
+msgid "Mediaplayback Stop"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18487
+msgid "Mediaplayback Up Right And Down Left From Center"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18493
+msgid "Mediaplayback Volume High"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18499
+msgid "Mediaplayback Volume Low"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18505
+msgid "Mediaplayback Volume Off"
+msgstr ""
+
+#: build/index.js:31048
+#: build/index.js:18511
+msgid "Mediaplayback Volume Xmark"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18645
+msgid "Bacteria"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18651
+msgid "Bacterium"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18663
+msgid "Ban Smoking"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18669
+msgid "Bed Pulse"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18687
+msgid "Bong"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18693
+msgid "Book Medical"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:18699
+#: build/index.js:21156
+msgid "Brain"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18705
+msgid "Briefcase Medical"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31058
+#: build/index.js:18711
+#: build/index.js:20185
+msgid "Cannabis"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:18717
+#: build/index.js:21162
+msgid "Capsules"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:18735
+#: build/index.js:24614
+msgid "Clipboard User"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18753
+msgid "Crutch"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:18759
+#: build/index.js:21180
+msgid "Disease"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:18765
+#: build/index.js:21186
+msgid "Dna"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18795
+msgid "File Medical"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18801
+msgid "File Prescription"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18807
+msgid "File Waveform"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:18825
+#: build/index.js:21228
+msgid "Flask Vial"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:18849
+#: build/index.js:24644
+msgid "Head Side Cough"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:18855
+#: build/index.js:24650
+msgid "Head Side Cough Slash"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:18861
+#: build/index.js:24656
+msgid "Head Side Mask"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:18867
+#: build/index.js:24662
+msgid "Head Side Virus"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18873
+msgid "Heart Circle Bolt"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18879
+msgid "Heart Circle Check"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18885
+msgid "Heart Circle Exclamation"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18891
+msgid "Heart Circle Minus"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18897
+msgid "Heart Circle Plus"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18903
+msgid "Heart Circle Xmark"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:18969
+#: build/index.js:21660
+#: build/index.js:24698
+msgid "Id Card Clip"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18975
+msgid "Joint"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18987
+msgid "Laptop Medical"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18993
+msgid "Lungs"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:18999
+msgid "Lungs Virus"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19005
+msgid "Mask Face"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19011
+msgid "Mask Ventilator"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:19023
+#: build/index.js:21252
+msgid "Mortar Pestle"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19029
+msgid "Notes Medical"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19035
+msgid "Pager"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:19053
+#: build/index.js:24854
+msgid "Person Dots From Line"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:19083
+#: build/index.js:21264
+msgid "Prescription Bottle"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19089
+msgid "Prescription Bottle Medical"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19095
+msgid "Prescription"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19101
+msgid "Pump Medical"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31052
+#: build/index.js:31078
+#: build/index.js:19113
+#: build/index.js:19734
+#: build/index.js:22385
+msgid "Receipt"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19119
+msgid "Shield Virus"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19137
+msgid "Smoking"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19167
+msgid "Star Of Life"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:19191
+#: build/index.js:21300
+msgid "Tablets"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19197
+msgid "Teeth"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19203
+msgid "Teeth Open"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19209
+msgid "Thermometer"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19215
+msgid "Tooth"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31096
+#: build/index.js:19239
+#: build/index.js:25154
+msgid "User Nurse"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:19251
+#: build/index.js:21324
+msgid "Vial"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:31070
+#: build/index.js:19257
+#: build/index.js:21330
+msgid "Vials"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19275
+msgid "Virus Covid Slash"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19281
+msgid "Viruses"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19293
+msgid "Virus Slash"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19299
+msgid "Weight Scale"
+msgstr ""
+
+#: build/index.js:31050
+#: build/index.js:19317
+msgid "XRay"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19404
+msgid "Austral Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19410
+msgid "Baht Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19416
+msgid "Bangladeshi Taka Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:31078
+#: build/index.js:19422
+#: build/index.js:22163
+msgid "Bitcoin"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19428
+msgid "Bitcoin Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19434
+msgid "Brazilian Real Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:31078
+#: build/index.js:19440
+#: build/index.js:22175
+msgid "Btc"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:31078
+#: build/index.js:19446
+#: build/index.js:22217
+msgid "Cash Register"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19452
+msgid "Cedi Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19458
+msgid "Cent Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19482
+msgid "Coins"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19488
+msgid "Colon Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19494
+msgid "Comment Dollar"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19500
+msgid "Comments Dollar"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:31078
+#: build/index.js:19506
+#: build/index.js:22289
+msgid "Credit Card"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19512
+msgid "Cruzeiro Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19524
+msgid "Dong Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:31078
+#: build/index.js:19530
+#: build/index.js:22295
+msgid "Ethereum"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19536
+msgid "Euro Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19542
+msgid "File Invoice Dollar"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19548
+msgid "File Invoice"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19554
+msgid "Florin Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19560
+msgid "Franc Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19566
+msgid "Gg Circle"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19572
+msgid "Gg"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19578
+msgid "Guarani Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19590
+msgid "Hryvnia Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19596
+msgid "Indian Rupee Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19602
+msgid "Kip Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19614
+msgid "Lari Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19620
+msgid "Lira Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19626
+msgid "Litecoin Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19632
+msgid "Manat Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19638
+msgid "Mill Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19644
+msgid "Bill1"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19650
+msgid "Bill1Wave"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19656
+msgid "Bill"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19662
+msgid "Bills"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19668
+msgid "Bill Transfer"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19674
+msgid "Bill Trend Up"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19680
+msgid "Bill Wave"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19686
+msgid "Bill Wheat"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19692
+msgid "Check Dollar"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19704
+msgid "Naira Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19716
+msgid "Peseta Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19722
+msgid "Peso Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19740
+msgid "Ruble Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19746
+msgid "Rupee Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19752
+msgid "Rupiah Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19788
+msgid "Shekel Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19800
+msgid "Sterling Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19806
+msgid "Tenge Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19812
+msgid "Turkish Lira Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:31074
+#: build/index.js:19818
+#: build/index.js:21870
+msgid "Vault"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19824
+msgid "Wallet"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19830
+msgid "Won Sign"
+msgstr ""
+
+#: build/index.js:31052
+#: build/index.js:19836
+msgid "Yen Sign"
+msgstr ""
+
+#: build/index.js:31054
+#: build/index.js:19878
+msgid "Box Open"
+msgstr ""
+
+#: build/index.js:31054
+#: build/index.js:31096
+#: build/index.js:19908
+#: build/index.js:24728
+msgid "People Carry Box"
+msgstr ""
+
+#: build/index.js:31054
+#: build/index.js:19920
+msgid "Sign Hanging"
+msgstr ""
+
+#: build/index.js:31054
+#: build/index.js:19932
+msgid "Tape"
+msgstr ""
+
+#: build/index.js:31054
+#: build/index.js:19950
+msgid "Truck Ramp Box"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:19999
+msgid "Drum"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20005
+msgid "Drum Steelpan"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20017
+msgid "Guitar"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20029
+msgid "Headphones Simple"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20065
+msgid "Napster"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20077
+msgid "Record Vinyl"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20089
+msgid "Soundcloud"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20095
+msgid "Spotify"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20101
+msgid "Volume High"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20107
+msgid "Volume Low"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20113
+msgid "Volume Off"
+msgstr ""
+
+#: build/index.js:31056
+#: build/index.js:20119
+msgid "Volume Xmark"
+msgstr ""
+
+#: build/index.js:31058
+#: build/index.js:31098
+#: build/index.js:20191
+#: build/index.js:25373
+msgid "Cloud Sun"
+msgstr ""
+
+#: build/index.js:31058
+#: build/index.js:31076
+#: build/index.js:20197
+#: build/index.js:21950
+msgid "Clover"
+msgstr ""
+
+#: build/index.js:31058
+#: build/index.js:31098
+#: build/index.js:20227
+#: build/index.js:25397
+msgid "Icicles"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20353
+msgid "0"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20359
+msgid "1"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20365
+msgid "2"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20371
+msgid "3"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20377
+msgid "4"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20383
+msgid "5"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20389
+msgid "6"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20395
+msgid "7"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20401
+msgid "8"
+msgstr ""
+
+#: build/index.js:31060
+#: build/index.js:20407
+msgid "9"
+msgstr ""
+
+#: build/index.js:31062
+#: build/index.js:31098
+#: build/index.js:20451
+#: build/index.js:25319
+msgid "Bolt Lightning"
+msgstr ""
+
+#: build/index.js:31062
+#: build/index.js:20469
+msgid "Camera Rotate"
+msgstr ""
+
+#: build/index.js:31062
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:20529
+#: build/index.js:21654
+#: build/index.js:24692
+msgid "Id Badge"
+msgstr ""
+
+#: build/index.js:31062
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:20535
+#: build/index.js:21666
+#: build/index.js:24704
+msgid "Id Card"
+msgstr ""
+
+#: build/index.js:31062
+#: build/index.js:31096
+#: build/index.js:20547
+#: build/index.js:24710
+msgid "Image Portrait"
+msgstr ""
+
+#: build/index.js:31062
+#: build/index.js:20559
+msgid "Minimize"
+msgstr ""
+
+#: build/index.js:31062
+#: build/index.js:20565
+msgid "Panorama"
+msgstr ""
+
+#: build/index.js:31062
+#: build/index.js:20583
+msgid "Unsplash"
+msgstr ""
+
+#: build/index.js:31064
+#: build/index.js:20641
+msgid "Check To Slot"
+msgstr ""
+
+#: build/index.js:31064
+#: build/index.js:20653
+msgid "Democrat"
+msgstr ""
+
+#: build/index.js:31064
+#: build/index.js:20671
+msgid "Flag Usa"
+msgstr ""
+
+#: build/index.js:31064
+#: build/index.js:31078
+#: build/index.js:31096
+#: build/index.js:20701
+#: build/index.js:22379
+#: build/index.js:24782
+msgid "Person Booth"
+msgstr ""
+
+#: build/index.js:31064
+#: build/index.js:20713
+msgid "Republican"
+msgstr ""
+
+#: build/index.js:31066
+#: build/index.js:31082
+#: build/index.js:20763
+#: build/index.js:22772
+msgid "Asterisk"
+msgstr ""
+
+#: build/index.js:31066
+#: build/index.js:31080
+#: build/index.js:20817
+#: build/index.js:22562
+msgid "Hashtag"
+msgstr ""
+
+#: build/index.js:31066
+#: build/index.js:20865
+msgid "Section"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20911
+msgid "Ankh"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:31082
+#: build/index.js:20923
+#: build/index.js:22784
+msgid "Bahai"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20929
+msgid "Book Bible"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20935
+msgid "Book Journal Whills"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20941
+msgid "Book Quran"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20947
+msgid "Book Tanakh"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20959
+msgid "Cross"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:31082
+#: build/index.js:20965
+#: build/index.js:22820
+msgid "Dharmachakra"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20983
+msgid "Hamsa"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20989
+msgid "Hands Praying"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:20995
+msgid "Hanukiah"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:21001
+msgid "Jedi"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:21013
+msgid "Khanda"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:21031
+msgid "Om"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:21037
+msgid "Peace"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:31096
+#: build/index.js:21043
+#: build/index.js:24932
+msgid "Person Praying"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:21055
+msgid "Scroll Torah"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:21061
+msgid "Spaghetti Monster Flying"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:21067
+msgid "Star And Crescent"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:21073
+msgid "Star Of David"
+msgstr ""
+
+#: build/index.js:31068
+#: build/index.js:31082
+#: build/index.js:21097
+#: build/index.js:22910
+msgid "Yin Yang"
+msgstr ""
+
+#: build/index.js:31070
+#: build/index.js:31098
+#: build/index.js:21306
+#: build/index.js:25481
+msgid "Temperature High"
+msgstr ""
+
+#: build/index.js:31070
+#: build/index.js:31098
+#: build/index.js:21312
+#: build/index.js:25487
+msgid "Temperature Low"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21363
+msgid "Sciencefiction Atom"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21369
+msgid "Sciencefiction Book Journal Whills"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21375
+msgid "Sciencefiction Explosion"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21381
+msgid "Sciencefiction Galactic Republic"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21387
+msgid "Sciencefiction Galactic Senate"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21393
+msgid "Sciencefiction Hand Spock"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21399
+msgid "Sciencefiction Jedi"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21405
+msgid "Sciencefiction Jedi Order"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21411
+msgid "Sciencefiction Old Republic"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21417
+msgid "Sciencefiction Robot"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21423
+msgid "Sciencefiction Rocket"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21429
+msgid "Sciencefiction Space Awesome"
+msgstr ""
+
+#: build/index.js:31072
+#: build/index.js:21435
+msgid "Sciencefiction User Astronaut"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21510
+msgid "Ban"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21588
+msgid "File Contract"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21600
+msgid "File Signature"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21612
+msgid "Gun"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21618
+msgid "Handcuffs"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21624
+msgid "Hands Bound"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21678
+msgid "Land Mine On"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21684
+msgid "Lock"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21690
+msgid "Lock Open"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:21696
+#: build/index.js:24716
+msgid "Mars And Venus Burst"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21708
+msgid "Passport"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21840
+msgid "Unlock"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:21846
+msgid "Unlock Keyhole"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:21852
+#: build/index.js:25136
+msgid "User Lock"
+msgstr ""
+
+#: build/index.js:31074
+#: build/index.js:31096
+#: build/index.js:21864
+#: build/index.js:25190
+msgid "User Shield"
+msgstr ""
+
+#: build/index.js:31076
+#: build/index.js:31088
+#: build/index.js:21920
+#: build/index.js:23512
+msgid "Calendar"
+msgstr ""
+
+#: build/index.js:31076
+#: build/index.js:31078
+#: build/index.js:31082
+#: build/index.js:21926
+#: build/index.js:22283
+#: build/index.js:22790
+msgid "Certificate"
+msgstr ""
+
+#: build/index.js:31076
+#: build/index.js:21962
+msgid "Crown"
+msgstr ""
+
+#: build/index.js:31076
+#: build/index.js:21992
+msgid "Heart Crack"
+msgstr ""
+
+#: build/index.js:31076
+#: build/index.js:22016
+msgid "Play"
+msgstr ""
+
+#: build/index.js:31076
+#: build/index.js:22034
+msgid "Square"
+msgstr ""
+
+#: build/index.js:31076
+#: build/index.js:31078
+#: build/index.js:31080
+#: build/index.js:31090
+#: build/index.js:22040
+#: build/index.js:22415
+#: build/index.js:22658
+#: build/index.js:23673
+msgid "Star"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22121
+msgid "Alipay"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22127
+msgid "Amazon Pay"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22133
+msgid "Apple Pay"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22139
+msgid "Bag"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22151
+msgid "Basket"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22199
+msgid "Cart Arrow Down"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22205
+msgid "Cart Plus"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22211
+msgid "Cart"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22223
+msgid "Cc Amazon Pay"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22229
+msgid "Cc Amex"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22235
+msgid "Cc Apple Pay"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22241
+msgid "Cc Diners Club"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22247
+msgid "Cc Discover"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22253
+msgid "Cc Jcb"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22259
+msgid "Cc Mastercard"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22265
+msgid "Cc Paypal"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22271
+msgid "Cc Stripe"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22277
+msgid "Cc Visa"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22301
+msgid "Gem"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22319
+msgid "Google Pay"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22325
+msgid "Google Wallet"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22349
+msgid "Money Check Dollar"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22355
+msgid "Money Check"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22361
+msgid "Nfc Directional"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22367
+msgid "Nfc Symbol"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22373
+msgid "Paypal"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22409
+msgid "Shop Slash"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22427
+msgid "Store Slash"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22433
+msgid "Stripe"
+msgstr ""
+
+#: build/index.js:31078
+#: build/index.js:22439
+msgid "Stripe S"
+msgstr ""
+
+#: build/index.js:31080
+#: build/index.js:31096
+#: build/index.js:22544
+#: build/index.js:24608
+msgid "Circle User"
+msgstr ""
+
+#: build/index.js:31080
+#: build/index.js:22634
+msgid "Share Nodes"
+msgstr ""
+
+#: build/index.js:31080
+#: build/index.js:22652
+msgid "Square Share Nodes"
+msgstr ""
+
+#: build/index.js:31080
+#: build/index.js:31096
+#: build/index.js:22682
+#: build/index.js:25106
+msgid "User Group"
+msgstr ""
+
+#: build/index.js:31080
+#: build/index.js:31096
+#: build/index.js:22688
+#: build/index.js:25118
+msgid "User"
+msgstr ""
+
+#: build/index.js:31080
+#: build/index.js:31096
+#: build/index.js:22694
+#: build/index.js:25166
+msgid "User Plus"
+msgstr ""
+
+#: build/index.js:31080
+#: build/index.js:31096
+#: build/index.js:22700
+#: build/index.js:25196
+msgid "Users"
+msgstr ""
+
+#: build/index.js:31082
+#: build/index.js:22766
+msgid "Arrows Spin"
+msgstr ""
+
+#: build/index.js:31082
+#: build/index.js:22796
+msgid "Circle Notch"
+msgstr ""
+
+#: build/index.js:31082
+#: build/index.js:22880
+msgid "Slash"
+msgstr ""
+
+#: build/index.js:31082
+#: build/index.js:22892
+msgid "Spinner"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:22963
+msgid "Baseball"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:22969
+msgid "Basketball"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:22981
+msgid "Bowling Ball"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:22987
+msgid "Broom Ball"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:22993
+msgid "Dumbbell"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23011
+msgid "Football"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23017
+msgid "Futbol"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23023
+msgid "Golf Ball Tee"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23041
+msgid "Hockey Puck"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23047
+msgid "Medal"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:23071
+#: build/index.js:24956
+msgid "Person Running"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:23077
+#: build/index.js:24968
+msgid "Person Skating"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:23083
+#: build/index.js:24974
+msgid "Person Skiing"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:23089
+#: build/index.js:24980
+msgid "Person Skiing Nordic"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:31096
+#: build/index.js:23095
+#: build/index.js:24986
+msgid "Person Snowboarding"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23125
+msgid "Spa"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:31088
+#: build/index.js:23131
+#: build/index.js:23572
+msgid "Stopwatch20"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23137
+msgid "Table Tennis Paddle Ball"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23143
+msgid "Volleyball"
+msgstr ""
+
+#: build/index.js:31084
+#: build/index.js:23149
+msgid "Weight Hanging"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23205
+msgid "Textformatting Align Center"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23211
+msgid "Textformatting Align Justify"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23217
+msgid "Textformatting Align Left"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23223
+msgid "Textformatting Align Right"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23229
+msgid "Textformatting Bold"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23235
+msgid "Textformatting Border All"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23241
+msgid "Textformatting Border None"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23247
+msgid "Textformatting Border Top Left"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23253
+msgid "Textformatting Check Double"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23259
+msgid "Textformatting Check"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23265
+msgid "Textformatting Circle Check"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23271
+msgid "Textformatting Filter Circle Xmark"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23277
+msgid "Textformatting Font"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23283
+msgid "Textformatting Heading"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23289
+msgid "Textformatting Highlighter"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23295
+msgid "Textformatting Icons"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23301
+msgid "Textformatting ICursor"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23307
+msgid "Textformatting Indent"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23313
+msgid "Textformatting Italic"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23319
+msgid "Textformatting List Check"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23325
+msgid "Textformatting List"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23331
+msgid "Textformatting List Ol"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23337
+msgid "Textformatting List Ul"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23343
+msgid "Textformatting Outdent"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23349
+msgid "Textformatting Paragraph"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23355
+msgid "Textformatting Rectangle List"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23361
+msgid "Textformatting Spell Check"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23367
+msgid "Textformatting Square Check"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23373
+msgid "Textformatting Strikethrough"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23379
+msgid "Textformatting Subscript"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23385
+msgid "Textformatting Superscript"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23391
+msgid "Textformatting Table Cells Column Lock"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23397
+msgid "Textformatting Table Cells"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23403
+msgid "Textformatting Table Cells Large"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23409
+msgid "Textformatting Table Cells Row Lock"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23415
+msgid "Textformatting Table Columns"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23421
+msgid "Textformatting Table"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23427
+msgid "Textformatting Table List"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23433
+msgid "Textformatting Text Height"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23439
+msgid "Textformatting Text Slash"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23445
+msgid "Textformatting Text Width"
+msgstr ""
+
+#: build/index.js:31086
+#: build/index.js:23451
+msgid "Textformatting Underline"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23494
+msgid "Calendar Check"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23500
+msgid "Calendar Day"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23506
+msgid "Calendar Days"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23518
+msgid "Calendar Minus"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23524
+msgid "Calendar Plus"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23530
+msgid "Calendar Week"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23536
+msgid "Calendar Xmark"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23542
+msgid "Clock"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23548
+msgid "Hourglass End"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23554
+msgid "Hourglass Half"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23560
+msgid "Hourglass"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23566
+msgid "Hourglass Start"
+msgstr ""
+
+#: build/index.js:31088
+#: build/index.js:23578
+msgid "Stopwatch"
+msgstr ""
+
+#: build/index.js:31090
+#: build/index.js:23607
+msgid "Bullseye"
+msgstr ""
+
+#: build/index.js:31090
+#: build/index.js:23619
+msgid "Circle Dot"
+msgstr ""
+
+#: build/index.js:31090
+#: build/index.js:23661
+msgid "Star Half"
+msgstr ""
+
+#: build/index.js:31090
+#: build/index.js:23667
+msgid "Star Half Stroke"
+msgstr ""
+
+#: build/index.js:31090
+#: build/index.js:23679
+msgid "Off"
+msgstr ""
+
+#: build/index.js:31090
+#: build/index.js:23685
+msgid "On"
+msgstr ""
+
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:23785
+#: build/index.js:24143
+msgid "Cable Car"
+msgstr ""
+
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:23881
+#: build/index.js:24239
+msgid "Plane Slash"
+msgstr ""
+
+#: build/index.js:31092
+#: build/index.js:31094
+#: build/index.js:23953
+#: build/index.js:24311
+msgid "Tractor"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:24560
+msgid "Arrows Down To People"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:24620
+msgid "Elevator"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:24674
+msgid "Hot Tub Person"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25076
+msgid "User Check"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25082
+msgid "User Clock"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25094
+msgid "User Gear"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25124
+msgid "User Large"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25130
+msgid "User Large Slash"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25142
+msgid "User Minus"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25148
+msgid "User Ninja"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25160
+msgid "User Pen"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25184
+msgid "Users Gear"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25202
+msgid "User Slash"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25226
+msgid "Users Slash"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25238
+msgid "User Tag"
+msgstr ""
+
+#: build/index.js:31096
+#: build/index.js:25250
+msgid "User Xmark"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25349
+msgid "Cloud Moon Rain"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25355
+msgid "Cloud Rain"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25379
+msgid "Cloud Sun Rain"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25415
+msgid "Poo Storm"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25421
+msgid "Rainbow"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25427
+msgid "Smog"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25463
+msgid "Temperature Empty"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25469
+msgid "Temperature Full"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25475
+msgid "Temperature Half"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25493
+msgid "Temperature Quarter"
+msgstr ""
+
+#: build/index.js:31098
+#: build/index.js:25499
+msgid "Temperature Three Quarters"
+msgstr ""
+
+#: build/index.js:31100
+#: build/index.js:25571
+msgid "Blog"
+msgstr ""
+
+#: build/index.js:31100
+#: build/index.js:25577
+msgid "Book Bookmark"
+msgstr ""
+
+#: build/index.js:31100
+#: build/index.js:25667
+msgid "Paperclip"
+msgstr ""
+
+#: build/index.js:31100
+#: build/index.js:25679
+msgid "Paragraph"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25749
+msgid "Accessibility"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25753
+msgid "Alert"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25757
+msgid "Alphabet"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25761
+msgid "Animals"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25765
+msgid "Arrows"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25769
+msgid "Astronomy"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25773
+msgid "Automotive"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25777
+msgid "Buildings"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25781
+msgid "Camping"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25785
+msgid "Charity"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25789
+msgid "Charts Diagrams"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25793
+msgid "Childhood"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25797
+msgid "Clothing Fashion"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25801
+msgid "Coding"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25805
+msgid "Communication"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25809
+msgid "Connectivity"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25813
+msgid "Construction"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25817
+msgid "Design"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25821
+msgid "Devices Hardware"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25825
+msgid "Disaster Crisis"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25829
+msgid "Editing"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25833
+msgid "Education"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25837
+msgid "Emoji"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25841
+msgid "Energy"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25845
+msgid "Files"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25849
+msgid "Film Video"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25853
+msgid "Food Beverage"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25857
+msgid "Fruits Vegetables"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25861
+msgid "Gaming"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25865
+msgid "Genders"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25869
+msgid "Halloween"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25877
+msgid "Holidays"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25881
+msgid "Household"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25885
+msgid "Humanitarian"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25889
+msgid "Logistics"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25893
+msgid "Maps"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25897
+msgid "Maritime"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25901
+msgid "Marketing"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25905
+msgid "Mathematics"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25909
+msgid "Media Playback"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25913
+msgid "Medical Health"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25917
+msgid "Money"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25921
+msgid "Moving"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25925
+msgid "Music Video"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25929
+msgid "Nature"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25933
+msgid "Numbers"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25937
+msgid "Photos Images"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25941
+msgid "Political"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25945
+msgid "Punctuation Symbols"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25949
+msgid "Religion"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25953
+msgid "Science"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25957
+msgid "Science Fiction"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25961
+msgid "Security"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25969
+msgid "Shopping"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25973
+msgid "Social"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25977
+msgid "Spinners"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25981
+msgid "Sports Fitness"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25985
+msgid "Text Formatting"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25989
+msgid "Time"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25993
+msgid "Toggle"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:25997
+msgid "Transportation"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:26001
+msgid "Travel Hotel"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:26005
+msgid "Users People"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:26009
+msgid "Weather"
+msgstr ""
+
+#: build/index.js:31101
+#: build/index.js:26013
+msgid "Writing"
+msgstr ""
+
+#: build/block.json
+msgctxt "block title"
+msgid "Font Awesome"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "font"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "awesome"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "block"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "icons"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "svg"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "graphic"
+msgstr ""
+
+#: build/block.json
+msgctxt "block keyword"
+msgid "icon"
+msgstr ""

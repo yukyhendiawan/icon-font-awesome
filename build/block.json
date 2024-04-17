@@ -1,0 +1,43 @@
+{
+  "apiVersion": 3,
+  "name": "yuky/icon-font-awesome",
+  "title": "Font Awesome",
+  "category": "media",
+  "description": "",
+  "keywords": [
+    "font",
+    "awesome",
+    "block",
+    "icons",
+    "svg",
+    "graphic",
+    "icon"
+  ],
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "iconName": {
+      "type": "string"
+    },
+    "justification": {
+      "type": "string"
+    },
+    "fontSize": {
+      "type": "number",
+      "default": 45
+    },
+    "color": {
+      "type": "string",
+      "default": "#333"
+    },
+    "hoverColor": {
+      "type": "string",
+      "default": "#333"
+    }
+  },
+  "textdomain": "icon-font-awesome",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./editor.css",
+  "style": "file:./style.css"
+}

@@ -1,0 +1,17 @@
+/* Define @font-face for the 'Material Symbols Outlined' font */
+.wp-block-yuky-icon-font-awesome {
+	display: flex;
+	flex-wrap: wrap;
+
+	.box-icon {
+		width: 100%;
+
+		i {
+			display: block;
+		}
+
+		i:hover {
+			color: var(--icon-font-awesome-hover-color) !important;
+		}
+	}
+}
