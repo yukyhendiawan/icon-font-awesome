@@ -6,15 +6,15 @@
  * @link       https://yukyhendiawan.com
  * @since      1.0.0
  *
- * @package    Block_Icons
- * @subpackage Block_Icons/admin
+ * @package    Icon_Font_Awesome
+ * @subpackage Icon_Font_Awesome/admin
  */
 
 /**
  * The admin-specific functionality of the plugin.
  *
- * @package    Block_Icons
- * @subpackage Block_Icons/admin
+ * @package    Icon_Font_Awesome
+ * @subpackage Icon_Font_Awesome/admin
  * @author     Yuky Hendiawan <yukyhendiawan1998@gmail.com>
  */
 class Icon_Font_Awesome_Notices
