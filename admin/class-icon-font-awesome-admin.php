@@ -165,7 +165,7 @@ class Icon_Font_Awesome_Admin {
 	 * Redirects user after theme/plugin activation if option is set.
 	 *
 	 * This function checks if the 'icon_font_awesome_redirect_after_activation_option' is set to true.
-	 * If true, it deletes the option and redirects the user to 'themes.php?page=icon-font-awesome'.
+	 * If true, it deletes the option and redirects the user to 'admin.php?page=icon-font-awesome-information'.
 	 */
 	public function activation_redirect() {
 		// Check if the 'icon_font_awesome_redirect_after_activation_option' is set to true
@@ -174,7 +174,7 @@ class Icon_Font_Awesome_Admin {
 			delete_option( 'icon_font_awesome_redirect_after_activation_option' );
 
 			// Construct the URL
-			$redirect_url = admin_url( 'themes.php?page=icon-font-awesome' );
+			$redirect_url = admin_url( 'admin.php?page=icon-font-awesome-information' );
 
 			// Make a GET request to the URL and check the HTTP response code
 			$response = wp_remote_get( $redirect_url );

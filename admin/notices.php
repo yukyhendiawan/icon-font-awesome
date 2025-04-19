@@ -72,7 +72,7 @@ class Icon_Font_Awesome_Notices
 					</svg>
 					<?php esc_html_e('Hire Developer!', 'icon-font-awesome'); ?>
 				</a>				
-				<a href="<?php echo esc_url( admin_url( 'themes.php?page=icon-font-awesome' ) ); ?>" class="usage-guide">
+				<a href="<?php echo esc_url( admin_url( 'admin.php?page=icon-font-awesome-information' ) ); ?>" class="usage-guide">
 					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
 						<path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z" />
 					</svg>
@@ -113,7 +113,7 @@ class Icon_Font_Awesome_Notices
 
 		// Check if the current page is in the WordPress admin area
 		if (is_admin()) {
-			if ('icon-font-awesome' === $plugin_page) {
+			if ('icon-font-awesome-information' === $plugin_page) {
 				remove_all_actions('admin_notices');
 			}
 		}
