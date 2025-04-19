@@ -712,6 +712,14 @@
 											}
 										}
 
+										span.chore {
+											background: #820e7f;
+
+											&::before {
+												content: "C";
+											}
+										}
+
 										span.feat {
 											background: #00c513;
 
