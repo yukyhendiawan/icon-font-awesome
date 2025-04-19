@@ -1,6 +1,6 @@
 {
 	"name": "icon-font-awesome",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"description": "The Block Plugin: Icon Font Awesome allows you to easily add a Gutenberg block to select icons from the Font Awesome collection.",
 	"author": "Yuky Hendiawan",
 	"license": "GPL-2.0-or-later",
@@ -17,7 +17,7 @@
 		"url": "https://github.com/yukyhendiawan/icon-font-awesome/issues"
 	},
 	"type": "module",
-	"main": "build/index.js",	
+	"main": "build/index.js",
 	"dependencies": {
 		"@wordpress/block-editor": "^12.23.0",
 		"@wordpress/blocks": "^12.32.0",
@@ -26,7 +26,7 @@
 		"@wordpress/i18n": "^4.55.0",
 		"@wordpress/icons": "^9.46.0",
 		"classnames": "^2.5.1"
-	},	
+	},
 	"devDependencies": {
 		"@commitlint/cli": "^19.6.1",
 		"@commitlint/config-conventional": "^19.6.0",
