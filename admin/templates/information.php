@@ -103,7 +103,7 @@ if ( file_exists( $plugin_file ) ) {
                             <?php esc_html_e('Open your WordPress editor and select or create a post or page using Gutenberg.', 'icon-font-awesome'); ?>
                         </li>
                         <li>
-                            <strong><?php esc_html_e('Go to Gutenberg Media Category Block and Choose an Icons:', 'icon-font-awesome'); ?></strong>
+                            <strong><?php esc_html_e('Go to Gutenberg Media Category Block and Choose a Font Awesome:', 'icon-font-awesome'); ?></strong>
                             <br />
                             <?php esc_html_e('Locate the "Media Category" option within the Gutenberg block. Choose the "Icons" and select an icon that suits your needs.', 'icon-font-awesome'); ?>
                         </li>
@@ -129,7 +129,7 @@ if ( file_exists( $plugin_file ) ) {
                     $image_url = $plugin_dir;
                     ?>
 
-                    <p><?php esc_html_e( 'Step 1: Please select the Icon block in the Gutenberg Editor.', 'icon-font-awesome' ); ?></p>
+                    <p><?php esc_html_e( 'Step 1: Please select the Font Awesome in the Gutenberg Editor.', 'icon-font-awesome' ); ?></p>
 
                     <img class="step" src="<?php echo esc_url($image_url . 'assets/images/step1.png'); ?>" alt="step1">
 
@@ -143,7 +143,7 @@ if ( file_exists( $plugin_file ) ) {
 
                     <p><?php esc_html_e( 'Step 4: You can add icon styles (optional).', 'icon-font-awesome' ); ?></p>
 
-                    <img class="step" src="<?php echo esc_url($image_url . 'assets/images/step4.png'); ?>" alt="step4">
+					<br />
 
                     <p><?php esc_html_e('Now, you are ready to effortlessly add icons to your content through the Gutenberg Editor. If you have any further questions or need additional assistance, feel free to contact us. Happy creating!"', 'icon-font-awesome'); ?></p>
                 </div>
@@ -199,7 +199,7 @@ if ( file_exists( $plugin_file ) ) {
                             <strong><?php esc_html_e( 'Report the Bug:', 'icon-font-awesome' ); ?></strong>
                             <?php echo esc_html__('Kindly report the bug through ', 'icon-font-awesome'); ?> 
                             <a href="https://wordpress.org/support/plugin/icon-font-awesome/" target="_blank">
-                                <?php esc_html_e('The Block Icons WordPress Plugin forum', 'icon-font-awesome'); ?>
+                                <?php esc_html_e('The Icon Font Awesome WordPress Plugin forum', 'icon-font-awesome'); ?>
                             </a> 
                             <?php echo esc_html__(' or via ', 'icon-font-awesome'); ?>
                             <a href="https://github.com/yukyhendiawan/icon-font-awesome/issues" target="_blank">
@@ -297,7 +297,7 @@ if ( file_exists( $plugin_file ) ) {
 							<p class="no-releases-found"><?php esc_html_e( 'No releases found.', 'icon-font-awesome' ); ?></p>
 							<?php
 						} else {
-							$max_display = 5; // Maximum number of releases to display.
+							$max_display = 1; // Maximum number of releases to display.
 							$displayed   = 0;   // Counter for displayed releases.
 
 							// Loop through each release in the data.

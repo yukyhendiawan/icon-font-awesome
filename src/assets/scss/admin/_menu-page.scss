@@ -357,6 +357,11 @@
 					box-sizing: border-box;
 					width: calc(100% - 330px - 30px);
 
+					// Image
+					img {
+						width: 100%;
+					}
+
 					h2 {
 						font-size: 35px;
 						line-height: 1.2;

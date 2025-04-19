@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to your files
-PLUGIN_FILE="block-icons.php"
+PLUGIN_FILE="icon-font-awesome.php"
 README_FILE="README.txt"
 CHANGELOG_FILE="CHANGELOG.md"
 
@@ -27,10 +27,10 @@ else
 fi
 
 # Update the define statement
-if sed -i -E "s/define\(\s*'BLOCK_ICONS_VERSION',\s*'[^']*'\s*\);/define( 'BLOCK_ICONS_VERSION', '$NEW_VERSION' );/" "$PLUGIN_FILE"; then
-  echo "Successfully updated the BLOCK_ICONS_VERSION define statement in $PLUGIN_FILE"
+if sed -i -E "s/define\(\s*'ICON_FONT_AWESOME_VERSION',\s*'[^']*'\s*\);/define( 'ICON_FONT_AWESOME_VERSION', '$NEW_VERSION' );/" "$PLUGIN_FILE"; then
+  echo "Successfully updated the ICON_FONT_AWESOME_VERSION define statement in $PLUGIN_FILE"
 else
-  echo "Failed to update the BLOCK_ICONS_VERSION define statement in $PLUGIN_FILE"
+  echo "Failed to update the ICON_FONT_AWESOME_VERSION define statement in $PLUGIN_FILE"
   exit 1
 fi
 

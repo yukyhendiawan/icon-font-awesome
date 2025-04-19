@@ -42,7 +42,7 @@ Once the installation is complete, click the "Activate" button that appears.
 
 == Screenshots ==
 
-1. Step 1: Please select the Icon block in the Gutenberg Editor.
+1. Step 1: Please select the Font Awesome block in the Gutenberg Editor.
 2. Step 2: Click on the Icon Library icon.
 3. Step 3: Choose one of the icons.
 

@@ -184,9 +184,6 @@ class Icon_Font_Awesome_Admin {
 				wp_redirect( esc_url( $redirect_url ) );
 				exit;
 			} else {
-				// If there is an error or the response code is not 200, handle accordingly
-				// You can log the error, display a message, or take other actions
-				error_log( 'Error accessing ' . $redirect_url );
 				// Handle the error, for example, redirect to another page
 				wp_redirect( esc_url( admin_url() ) );
 				exit;
