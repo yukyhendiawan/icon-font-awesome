@@ -163,10 +163,10 @@ class Icon_Font_Awesome {
 
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_styles' );
 		$this->loader->add_action( 'admin_enqueue_scripts', $plugin_admin, 'enqueue_scripts' );
+		$this->loader->add_action( 'admin_menu', $plugin_admin, 'admin_menu_page' );
 		$this->loader->add_action( 'enqueue_block_assets', $plugin_admin, 'enqueue_block_editor' );
 		$this->loader->add_action( 'init', $plugin_admin, 'initialize_block_icons' );
-		$this->loader->add_action( 'admin_menu', $plugin_admin, 'add_icon_font_awesome_submenu' );
-		$this->loader->add_action( 'admin_init', $plugin_admin, 'activation_redirect', 9999 );
+		$this->loader->add_action( 'admin_init', $plugin_admin, 'activation_redirect', 9999 );		
 
 	}
 

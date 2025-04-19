@@ -61,10 +61,12 @@ class Icon_Font_Awesome_Admin {
 	 */
 	public function enqueue_styles( $hook ) {
 
-		wp_enqueue_style( $this->plugin_name . '-admin-style-global', plugins_url() . '/icon-font-awesome/assets/css/admin-global.min.css', array(), $this->version, 'all' );		
+		// Enqueue a global admin style.
+		wp_enqueue_style( $this->plugin_name . '-admin-global-style', plugins_url() . '/icon-font-awesome/assets/css/admin-global.min.css', array(), $this->version, 'all' );
 
-		if ( 'appearance_page_icon-font-awesome' === $hook ) {
-			wp_enqueue_style( $this->plugin_name . '-admin-style-submenu', plugins_url() . '/icon-font-awesome/assets/css/admin-style-submenu.min.css', array(), $this->version, 'all' );
+		// Conditionally enqueue a specific admin menu style for the information page.
+		if ( 'toplevel_page_icon-font-awesome-information' === $hook ) {
+			wp_enqueue_style( $this->plugin_name . '-admin-menu-style', plugins_url( 'icon-font-awesome' ) . '/assets/css/admin-menu.min.css', array(), $this->version, );			
 		}
 
 	}
@@ -90,12 +92,53 @@ class Icon_Font_Awesome_Admin {
 			)
 		);
 
-		// Only Submenu Font Awesome
-		if ( 'appearance_page_icon-font-awesome' === $hook ) {
-			wp_enqueue_script( $this->plugin_name. '-admin-submenu', plugins_url() . '/icon-font-awesome/assets/js/admin-submenu.min.js', array( 'jquery' ), $this->version, true );
-		}
+		// Conditionally enqueue a specific admin menu script for the information page.
+		if ( 'toplevel_page_icon-font-awesome-information' === $hook ) {
+			// Enqueue the admin JavaScript file with jQuery as a dependency.
+			wp_enqueue_script( $this->plugin_name . '-admin-menu-script', plugins_url( 'icon-font-awesome' ) . '/assets/js/admin-menu.min.js', array(), $this->version, true );		
+		}		
 
 	}
+
+	/**
+	 * Registers a new admin menu page for the plugin.
+	 *
+	 * This function adds a new top-level menu page to the WordPress admin area.
+	 * The menu page displays the 'information.php' template from the plugin's admin/templates directory.
+	 *
+	 * @since 1.0.0
+	 */
+	public function admin_menu_page() {
+		add_menu_page(
+			__( 'Icon Font Awesome', 'icon-font-awesome' ), // Page title.
+			__( 'Icon Font Awesome', 'icon-font-awesome' ), // Menu title.
+			'manage_options', // Capability required.
+			'icon-font-awesome-information', // Menu slug.
+			array( $this, 'template_for_information_menu' ), // Callback function.
+			'dashicons-admin-generic', // Icon URL.
+			30 // $position.
+		);
+	}
+
+	/**
+	 * Displays the information template for the admin menu page.
+	 *
+	 * This function defines the path to the 'information.php' template file and includes it if it exists.
+	 *
+	 * @since 1.0.0
+	 *
+	 * @return void
+	 */
+	public function template_for_information_menu() {
+		// Define the path to the template file.
+		$template_path = ICON_FONT_AWESOME_DIR_PATH . 'admin/templates/information.php';
+
+		// Check if the template file exists.
+		if ( file_exists( $template_path ) ) {
+			// Include the template file if it exists.
+			include $template_path;
+		}
+	}	
 
 	/**
 	 * Enqueues styles for the block-based editor.
@@ -116,36 +159,6 @@ class Icon_Font_Awesome_Admin {
 		
 		// Sets script translations for 'icon-font-awesome-script' with the 'icon-font-awesome' domain.
 		wp_set_script_translations( 'icon-font-awesome-script', 'icon-font-awesome' );
-	}
-
-	/**
-	 * Adds a submenu for Font Awesome in the WordPress dashboard.
-	 */
-	public function add_icon_font_awesome_submenu() {
-		add_theme_page(
-			__( 'Font Awesome', 'icon-font-awesome' ),
-			__( 'Font Awesome', 'icon-font-awesome' ),
-			'edit_theme_options',
-			'icon-font-awesome',
-			array( $this, 'render_block_icons_submenu_template' )
-		);
-	}
-
-	/**
-	 * Renders the template for the Font Awesome submenu page.
-	 */
-	public function render_block_icons_submenu_template() {
-		// Get the path to the plugin directory
-		$plugin_dir = plugin_dir_path( __FILE__ );
-
-		// Search for the template file inside the plugin directory
-		$template_path = $plugin_dir . 'template/information.php';
-
-		// Ensure the template file exists before loading
-		if ( file_exists( $template_path ) ) {
-			// Include the template file
-			include $template_path;
-		}
 	}
 
 	/**
