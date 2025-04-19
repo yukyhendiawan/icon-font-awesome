@@ -1,5 +1,11 @@
 # Changelog
 
+## <small>2.0.2 (2025-04-19)</small>
+
+* refactor: index.php file ([ec73c5a](https://github.com/yukyhendiawan/icon-font-awesome/commit/ec73c5a))
+* fix: admin notice ([d726042](https://github.com/yukyhendiawan/icon-font-awesome/commit/d726042))
+* style: changelog admin menu ([0cf3363](https://github.com/yukyhendiawan/icon-font-awesome/commit/0cf3363))
+
 ## <small>2.0.1 (2025-04-19)</small>
 
 * release(major): bump version from 1 to 2 ([afd72ca](https://github.com/yukyhendiawan/icon-font-awesome/commit/afd72ca))

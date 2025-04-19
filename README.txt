@@ -4,7 +4,7 @@ Donate link: https://www.buymeacoffee.com/yukyhendiawan
 Tags: icon, fontawesome, font, awesome, block
 Requires at least: 6.3
 Tested up to: 6.8
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
